@@ -1,0 +1,2 @@
+-archive all assets required for the game (put flp files, sounds, textures, max files in the repository)
+-Find an appropriate file structure to store all game contents

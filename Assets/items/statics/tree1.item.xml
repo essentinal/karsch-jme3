@@ -1,0 +1,8 @@
+<item name="tree1" type="LEVEL_STATIC">
+	<model asset="model/bin/tree1.j3o">
+		<scale x="0.1" y="0.1" z="0.1" />
+		<translate x="0" y="4" z="0" />
+	</model>
+	<collisiongroup name="ground_all" />
+	<modifyterrain layer="forest" />
+</item>

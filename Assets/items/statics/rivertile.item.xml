@@ -1,0 +1,4 @@
+<item name="rivertile" type="LEVEL_STATIC">
+	<collisiongroup name="ground_all" />
+	<modifyterrain layer="water" />
+</item>

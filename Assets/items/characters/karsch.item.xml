@@ -1,0 +1,12 @@
+<item name="karsch" type="CHARACTER">
+	<model asset="model/bin/karsch_walk.j3o">
+		<scale x="0.04" y="0.04" z="0.04" />
+	</model>
+<!--	<model asset="model/bin/shadow.j3o">
+	</model> -->
+	<animation type="STAND" name="walk" speed="0" />
+	<animation type="MOVE" name="walk" speed="10" />
+	<control type="PLAYER_CONTROL" speed="13" />
+	
+	<collisiongroup name="ground_all" />
+</item>

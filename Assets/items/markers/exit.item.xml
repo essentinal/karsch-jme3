@@ -1,0 +1,5 @@
+<item name="exit" type="MARKER">
+	<model asset="model/bin/exit.j3o">
+	
+	</model>
+</item>

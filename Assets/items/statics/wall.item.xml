@@ -1,0 +1,6 @@
+<item name="wall" type="LEVEL_STATIC">
+	<model asset="model/bin/wall.j3o">
+		
+	</model>
+	<collisiongroup name="ground_all" />
+</item>

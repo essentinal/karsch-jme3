@@ -1,0 +1,5 @@
+<item name="interactablestone" type="LEVEL_DYNAMIC">
+	<model asset="model/bin/interactablestone.j3o">
+		
+	</model>
+</item>

@@ -1,0 +1,79 @@
+<scene formatVersion="1.0" upAxis="y" unitsPerMeter="39.3701" minOgreVersion="1.8" ogreMaxVersion="2.3.9" author="OgreMax Scene Exporter (www.ogremax.com)" application="3DS Max">
+    <nodes>
+        <node name="Group02">
+            <position x="47.5" y="61.1936" z="-47.5" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0" qy="0" qz="0" qw="1" />
+            <node name="Box21">
+                <position x="2.5" y="24.0783" z="42.4775" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0.707107" qy="0" qz="0" qw="0.707107" />
+                <entity name="Box21" castShadows="true" receiveShadows="true" meshFile="fence1Box21.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="fence102-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="Box27">
+                <position x="-47.1313" y="-2.65" z="37.5" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0.707107" qy="0" qz="0" qw="0.707107" />
+                <entity name="Box27" castShadows="true" receiveShadows="true" meshFile="fence1Box27.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="fence102-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="Box18">
+                <position x="52.5" y="-10.9217" z="37.5" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0.707107" qy="0" qz="0" qw="0.707107" />
+                <entity name="Box18" castShadows="true" receiveShadows="true" meshFile="fence1Box18.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="fence102-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="Box26">
+                <position x="-57.5" y="-10.9217" z="-52.5" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="-0.5" qy="-0.5" qz="0.5" qw="-0.5" />
+                <entity name="Box26" castShadows="true" receiveShadows="true" meshFile="fence1Box26.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="fence102-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="Box25">
+                <position x="-52.5225" y="-55.9217" z="-2.5" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="-0.5" qy="-0.5" qz="0.5" qw="-0.5" />
+                <entity name="Box25" castShadows="true" receiveShadows="true" meshFile="fence1Box25.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="fence102-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="Box24">
+                <position x="-52.5225" y="24.0783" z="-2.5" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="-0.5" qy="-0.5" qz="0.5" qw="-0.5" />
+                <entity name="Box24" castShadows="true" receiveShadows="true" meshFile="fence1Box24.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="fence102-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="Box22">
+                <position x="2.5" y="-55.9217" z="42.4775" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0.707107" qy="0" qz="0" qw="0.707107" />
+                <entity name="Box22" castShadows="true" receiveShadows="true" meshFile="fence1Box22.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="fence102-Default" />
+                    </subentities>
+                </entity>
+            </node>
+        </node>
+    </nodes>
+</scene>

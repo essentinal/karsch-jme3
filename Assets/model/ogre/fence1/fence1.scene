@@ -1,0 +1,69 @@
+<scene formatVersion="1.0" upAxis="y" unitsPerMeter="39.3701" minOgreVersion="1.8" ogreMaxVersion="2.3.9" author="OgreMax Scene Exporter (www.ogremax.com)" application="3DS Max">
+    <nodes>
+        <node name="Group01">
+            <position x="-1.91646e-007" y="52.9219" z="0" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0.707107" qy="0" qz="0" qw="0.707107" />
+            <node name="Box06">
+                <position x="-100" y="-10" z="2.65002" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="Box06" castShadows="true" receiveShadows="true" meshFile="fence1Box06.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="fence102-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="Box01">
+                <position x="0" y="-5.02249" z="47.65" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="Box01" castShadows="true" receiveShadows="true" meshFile="fence1Box01.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="fence102-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="Box02">
+                <position x="0" y="-5.0225" z="-32.35" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="Box02" castShadows="true" receiveShadows="true" meshFile="fence1Box02.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="fence102-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="Box04">
+                <position x="0" y="-5.0225" z="7.65002" />
+                <scale x="1.05" y="1" z="1" />
+                <rotation qx="1.12735e-016" qy="0.173648" qz="-7.5904e-009" qw="0.984808" />
+                <entity name="Box04" castShadows="true" receiveShadows="true" meshFile="fence1Box04.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="fence102-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="Box03">
+                <position x="0" y="-5.0225" z="7.65002" />
+                <scale x="1.05" y="1" z="1" />
+                <rotation qx="1.12735e-016" qy="-0.173648" qz="7.5904e-009" qw="0.984808" />
+                <entity name="Box03" castShadows="true" receiveShadows="true" meshFile="fence1Box03.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="fence102-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="Box05">
+                <position x="100" y="-10" z="2.65002" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="Box05" castShadows="true" receiveShadows="true" meshFile="fence1Box05.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="fence102-Default" />
+                    </subentities>
+                </entity>
+            </node>
+        </node>
+    </nodes>
+</scene>

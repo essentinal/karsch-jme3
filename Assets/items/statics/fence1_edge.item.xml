@@ -1,0 +1,6 @@
+<item name="fence1_edge" type="LEVEL_STATIC">
+	<model asset="model/bin/fence1_edge.j3o">
+		<scale x="0.025" y="0.025" z="0.025"/>
+	</model>
+	<collisiongroup name="ground_all" />
+</item>

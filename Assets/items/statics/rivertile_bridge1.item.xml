@@ -1,0 +1,7 @@
+<item name="rivertile_bridge1" type="LEVEL_STATIC">
+	<model asset="model/bin/bridge1.j3o">
+		<scale x="0.04" y="0.03" z="0.03"/>
+		<translate x="-1.8" y="-0.3" z="0" />
+	</model>
+	<modifyterrain layer="water" />
+</item>

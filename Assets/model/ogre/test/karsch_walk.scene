@@ -1,0 +1,17 @@
+<scene formatVersion="1.0" upAxis="y" unitsPerMeter="100" unitType="centimeters" minOgreVersion="1.8" ogreMaxVersion="2.4.3" author="OgreMax Scene Exporter (www.ogremax.com)" application="3DS Max">
+    <nodes>
+        <node name="Karsch">
+            <position x="7.67558e-005" y="26.4222" z="966.935" />
+            <scale x="10.1346" y="10.1346" z="10.1346" />
+            <rotation qx="-0.707107" qy="1.05367e-008" qz="1.05367e-008" qw="0.707107" />
+            <entity name="Karsch" castShadows="true" receiveShadows="true" meshFile="Karsch.mesh">
+                <subentities>
+                    <subentity index="0" materialName="02-Default" />
+                    <subentity index="1" materialName="01-Default" />
+                    <subentity index="2" materialName="03-Default" />
+                    <subentity index="3" materialName="08-Default" />
+                </subentities>
+            </entity>
+        </node>
+    </nodes>
+</scene>

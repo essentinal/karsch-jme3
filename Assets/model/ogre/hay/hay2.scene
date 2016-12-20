@@ -1,0 +1,59 @@
+<scene formatVersion="1.0" upAxis="y" unitsPerMeter="39.3701" minOgreVersion="1.8" ogreMaxVersion="2.4.3" author="OgreMax Scene Exporter (www.ogremax.com)" application="3DS Max">
+    <nodes>
+        <node name="Group02">
+            <position x="0" y="72.505" z="-3.16929e-006" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0" qy="0" qz="0" qw="1" />
+            <node name="ChamferBox05">
+                <position x="40" y="-72.5" z="-40" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox05" castShadows="true" receiveShadows="true" meshFile="hayChamferBox05.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox09">
+                <position x="-10" y="-2.50002" z="3.92398e-006" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0.130526" qz="-5.70548e-009" qw="0.991445" />
+                <entity name="ChamferBox09" castShadows="true" receiveShadows="true" meshFile="hayChamferBox09.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox08">
+                <position x="-40" y="-72.5" z="-40" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox08" castShadows="true" receiveShadows="true" meshFile="hayChamferBox08.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox07">
+                <position x="-40" y="-72.5" z="40" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox07" castShadows="true" receiveShadows="true" meshFile="hayChamferBox07.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox06">
+                <position x="40" y="-72.5" z="40" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox06" castShadows="true" receiveShadows="true" meshFile="hayChamferBox06.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+        </node>
+    </nodes>
+</scene>

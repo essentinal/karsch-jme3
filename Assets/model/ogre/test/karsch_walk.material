@@ -1,0 +1,71 @@
+material 03-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0 0 0 1 37
+		}
+
+	}
+
+}
+
+
+
+material 08-Default
+{
+	technique
+	{
+		pass
+		{
+			specular 0 0 0 1 1
+			emissive 0.71 0.71 0.71 1
+		}
+
+	}
+
+}
+
+
+
+material 01-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.862745 0.698039 0.756863 1
+			diffuse 0.862745 0.698039 0.756863 1
+			specular 0.027 0.027 0.027 1 5
+			emissive 0.28 0.28 0.28 1
+
+			texture_unit
+			{
+				texture KARSCH_F.PNG
+				transform 4 0 0 0 0 4 0 0 0 0 1 0 0 0 0 1
+			}
+		}
+
+	}
+
+}
+
+
+
+material 02-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.94902 0.537255 0.682353 1
+			diffuse 0.94902 0.537255 0.682353 1
+			specular 0.054 0.054 0.054 1 10
+		}
+
+	}
+
+}

@@ -1,0 +1,16 @@
+
+material sheep10-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.72549 0.72549 0.627451 1
+			diffuse 0.72549 0.72549 0.627451 1
+			specular 0 0 0 1 4
+			emissive 0.7 0.7 0.7 1
+		}
+
+	}
+
+}

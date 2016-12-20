@@ -1,0 +1,49 @@
+<scene formatVersion="1.0" upAxis="y" unitsPerMeter="39.3701" minOgreVersion="1.8" ogreMaxVersion="2.4.3" author="OgreMax Scene Exporter (www.ogremax.com)" application="3DS Max">
+    <nodes>
+        <node name="Group01">
+            <position x="0" y="72.505" z="-5" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0" qy="0" qz="0" qw="1" />
+            <node name="ChamferBox01">
+                <position x="-40" y="-72.5" z="-35" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox01" castShadows="true" receiveShadows="true" meshFile="hayChamferBox01.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox04">
+                <position x="0" y="-2.50002" z="-15" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0.130526" qz="-5.70548e-009" qw="0.991445" />
+                <entity name="ChamferBox04" castShadows="true" receiveShadows="true" meshFile="hayChamferBox04.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox03">
+                <position x="10" y="-72.5" z="35" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox03" castShadows="true" receiveShadows="true" meshFile="hayChamferBox03.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox02">
+                <position x="40" y="-72.5" z="-35" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox02" castShadows="true" receiveShadows="true" meshFile="hayChamferBox02.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+        </node>
+    </nodes>
+</scene>

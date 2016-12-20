@@ -1,0 +1,2049 @@
+<mesh>
+    <submeshes>
+        <submesh material="house_inside01-Default" usesharedvertices="false" use32bitindexes="false" operationtype="triangle_list">
+            <faces count="72">
+                <face v1="0" v2="1" v3="2" />
+                <face v1="3" v2="4" v3="5" />
+                <face v1="6" v2="7" v3="8" />
+                <face v1="9" v2="10" v3="11" />
+                <face v1="12" v2="13" v3="14" />
+                <face v1="15" v2="16" v3="17" />
+                <face v1="18" v2="19" v3="20" />
+                <face v1="21" v2="22" v3="23" />
+                <face v1="24" v2="25" v3="26" />
+                <face v1="27" v2="28" v3="29" />
+                <face v1="30" v2="31" v3="32" />
+                <face v1="33" v2="34" v3="35" />
+                <face v1="36" v2="37" v3="38" />
+                <face v1="39" v2="40" v3="41" />
+                <face v1="42" v2="43" v3="44" />
+                <face v1="45" v2="46" v3="47" />
+                <face v1="48" v2="49" v3="50" />
+                <face v1="51" v2="52" v3="53" />
+                <face v1="54" v2="55" v3="56" />
+                <face v1="57" v2="58" v3="59" />
+                <face v1="60" v2="61" v3="62" />
+                <face v1="63" v2="64" v3="65" />
+                <face v1="66" v2="67" v3="68" />
+                <face v1="69" v2="70" v3="71" />
+                <face v1="72" v2="73" v3="74" />
+                <face v1="75" v2="76" v3="77" />
+                <face v1="78" v2="79" v3="80" />
+                <face v1="81" v2="82" v3="83" />
+                <face v1="84" v2="85" v3="86" />
+                <face v1="87" v2="88" v3="89" />
+                <face v1="90" v2="91" v3="92" />
+                <face v1="93" v2="94" v3="95" />
+                <face v1="96" v2="97" v3="98" />
+                <face v1="99" v2="100" v3="101" />
+                <face v1="102" v2="103" v3="104" />
+                <face v1="105" v2="106" v3="107" />
+                <face v1="108" v2="109" v3="110" />
+                <face v1="111" v2="112" v3="113" />
+                <face v1="114" v2="115" v3="116" />
+                <face v1="117" v2="118" v3="119" />
+                <face v1="120" v2="121" v3="122" />
+                <face v1="123" v2="124" v3="125" />
+                <face v1="126" v2="127" v3="128" />
+                <face v1="129" v2="130" v3="131" />
+                <face v1="132" v2="133" v3="134" />
+                <face v1="135" v2="136" v3="137" />
+                <face v1="138" v2="139" v3="140" />
+                <face v1="141" v2="142" v3="143" />
+                <face v1="144" v2="145" v3="146" />
+                <face v1="147" v2="148" v3="149" />
+                <face v1="150" v2="151" v3="152" />
+                <face v1="153" v2="154" v3="155" />
+                <face v1="156" v2="157" v3="158" />
+                <face v1="159" v2="160" v3="161" />
+                <face v1="162" v2="163" v3="164" />
+                <face v1="165" v2="166" v3="167" />
+                <face v1="168" v2="169" v3="170" />
+                <face v1="171" v2="172" v3="173" />
+                <face v1="174" v2="175" v3="176" />
+                <face v1="177" v2="178" v3="179" />
+                <face v1="180" v2="181" v3="182" />
+                <face v1="183" v2="184" v3="185" />
+                <face v1="186" v2="187" v3="188" />
+                <face v1="189" v2="190" v3="191" />
+                <face v1="192" v2="193" v3="194" />
+                <face v1="195" v2="196" v3="197" />
+                <face v1="198" v2="199" v3="200" />
+                <face v1="201" v2="202" v3="203" />
+                <face v1="204" v2="205" v3="206" />
+                <face v1="207" v2="208" v3="209" />
+                <face v1="210" v2="211" v3="212" />
+                <face v1="213" v2="214" v3="215" />
+            </faces>
+            <geometry vertexcount="216">
+                <vertexbuffer positions="true" normals="true" texture_coord_dimensions_0="2" texture_coords="1">
+                    <vertex>
+                        <position x="30" y="0.00426674" z="40" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.9995" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="24.9256" z="40" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.9995" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="24.9256" z="40" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.000499487" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="24.9256" z="40" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.000499487" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="0.00426674" z="40" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.000499487" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="0.00426674" z="40" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.9995" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="0.00426769" z="-40" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.9995" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="24.9256" z="-40" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.9995" v="0.000499606" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="24.9256" z="-40" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.000499487" v="0.000499606" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="24.9256" z="-40" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.000499487" v="0.000499606" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="0.00426769" z="-40" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.000499487" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="0.00426769" z="-40" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.9995" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="0.00426674" z="40" />
+                        <normal x="4.18708e-009" y="-1" z="2.28271e-007" />
+                        <texcoord u="0.000499785" v="0.992884" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="0.00426674" z="39" />
+                        <normal x="1.43346e-008" y="-1" z="-1.43346e-008" />
+                        <texcoord u="0.0171498" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="0.00426769" z="-39" />
+                        <normal x="7.64162e-011" y="-1" z="-6.03688e-009" />
+                        <texcoord u="0.0171495" v="0.0129045" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="0.00426769" z="-40" />
+                        <normal x="-5.96046e-009" y="-1" z="-5.96046e-009" />
+                        <texcoord u="0.000499487" v="0.000499725" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="0.00426674" z="40" />
+                        <normal x="4.18708e-009" y="-1" z="2.28271e-007" />
+                        <texcoord u="0.000499785" v="0.992884" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="0.00426769" z="-39" />
+                        <normal x="7.64162e-011" y="-1" z="-6.03688e-009" />
+                        <texcoord u="0.0171495" v="0.0129045" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="0.00426769" z="-40" />
+                        <normal x="3.97364e-009" y="-1" z="-3.97364e-009" />
+                        <texcoord u="0.9995" v="0.000499547" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="0.00426769" z="-40" />
+                        <normal x="-5.96046e-009" y="-1" z="-5.96046e-009" />
+                        <texcoord u="0.000499487" v="0.000499725" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="0.00426769" z="-39" />
+                        <normal x="7.64162e-011" y="-1" z="-6.03688e-009" />
+                        <texcoord u="0.0171495" v="0.0129045" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="0.00426769" z="-40" />
+                        <normal x="3.97364e-009" y="-1" z="-3.97364e-009" />
+                        <texcoord u="0.9995" v="0.000499547" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="0.00426769" z="-39" />
+                        <normal x="7.64162e-011" y="-1" z="-6.03688e-009" />
+                        <texcoord u="0.0171495" v="0.0129045" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="0.00426769" z="-39" />
+                        <normal x="-3.22069e-007" y="-1" z="-1.21247e-008" />
+                        <texcoord u="0.98285" v="0.0129043" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="0.00426674" z="40" />
+                        <normal x="-3.22069e-007" y="-1" z="3.05767e-007" />
+                        <texcoord u="0.999501" v="0.992884" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="0.00426769" z="-40" />
+                        <normal x="3.97364e-009" y="-1" z="-3.97364e-009" />
+                        <texcoord u="0.9995" v="0.000499547" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="0.00426769" z="-39" />
+                        <normal x="-3.22069e-007" y="-1" z="-1.21247e-008" />
+                        <texcoord u="0.98285" v="0.0129043" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="0.00426674" z="40" />
+                        <normal x="-3.22069e-007" y="-1" z="3.05767e-007" />
+                        <texcoord u="0.999501" v="0.992884" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="0.00426769" z="-39" />
+                        <normal x="-3.22069e-007" y="-1" z="-1.21247e-008" />
+                        <texcoord u="0.98285" v="0.0129043" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="0.00426579" z="39" />
+                        <normal x="-3.20562e-007" y="-1" z="3.0426e-007" />
+                        <texcoord u="0.98285" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="0.00426674" z="40" />
+                        <normal x="4.18708e-009" y="-1" z="2.28271e-007" />
+                        <texcoord u="0.000499785" v="0.992884" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="0.00426674" z="40" />
+                        <normal x="-3.22069e-007" y="-1" z="3.05767e-007" />
+                        <texcoord u="0.999501" v="0.992884" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="0.00426579" z="39" />
+                        <normal x="-3.20562e-007" y="-1" z="3.0426e-007" />
+                        <texcoord u="0.98285" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="0.00426674" z="39" />
+                        <normal x="1.43346e-008" y="-1" z="-1.43346e-008" />
+                        <texcoord u="0.0171498" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="0.00426674" z="40" />
+                        <normal x="4.18708e-009" y="-1" z="2.28271e-007" />
+                        <texcoord u="0.000499785" v="0.992884" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="0.00426579" z="39" />
+                        <normal x="-3.20562e-007" y="-1" z="3.0426e-007" />
+                        <texcoord u="0.98285" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="24.9256" z="40" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.992884" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="24.9256" z="-40" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.000499547" v="0.000499606" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="0.00426769" z="-40" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.000499547" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="0.00426769" z="-40" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.000499547" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="0.00426674" z="40" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.992884" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="24.9256" z="40" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.992884" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="0.00426674" z="40" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.0071162" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="0.00426769" z="-40" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.9995" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="24.9256" z="-40" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.9995" v="0.000499606" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="24.9256" z="-40" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.9995" v="0.000499606" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="24.9256" z="40" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.0071162" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="0.00426674" z="40" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.0071162" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="24.9256" z="-39" />
+                        <normal x="-1" y="-3.82674e-008" z="1.22266e-008" />
+                        <texcoord u="0.0129045" v="0.000499606" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="0.00426769" z="-39" />
+                        <normal x="-1" y="-7.65348e-008" z="-9.3576e-016" />
+                        <texcoord u="0.0129045" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="0.00426674" z="39" />
+                        <normal x="-1" y="-3.82674e-008" z="1.22266e-008" />
+                        <texcoord u="0.980479" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="0.00426674" z="39" />
+                        <normal x="-1" y="-3.82674e-008" z="1.22266e-008" />
+                        <texcoord u="0.980479" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="24.9256" z="39" />
+                        <normal x="-1" y="0" z="2.44532e-008" />
+                        <texcoord u="0.980479" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="24.9256" z="-39" />
+                        <normal x="-1" y="-3.82674e-008" z="1.22266e-008" />
+                        <texcoord u="0.0129045" v="0.000499606" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="-39" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.0171498" v="0.000499606" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="0.00426769" z="-39" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.0171498" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="0.00426769" z="-39" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.98285" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="0.00426769" z="-39" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.98285" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="24.9256" z="-39" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.98285" v="0.000499606" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="-39" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.0171498" v="0.000499606" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="39" />
+                        <normal x="1" y="-3.82674e-008" z="-1.22266e-008" />
+                        <texcoord u="0.0195212" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="0.00426579" z="39" />
+                        <normal x="1" y="-7.65348e-008" z="-1.87152e-015" />
+                        <texcoord u="0.0195212" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="0.00426769" z="-39" />
+                        <normal x="1" y="-3.82674e-008" z="-1.22266e-008" />
+                        <texcoord u="0.987096" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="0.00426769" z="-39" />
+                        <normal x="1" y="-3.82674e-008" z="-1.22266e-008" />
+                        <texcoord u="0.987096" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="-39" />
+                        <normal x="1" y="0" z="-2.44532e-008" />
+                        <texcoord u="0.987096" v="0.000499606" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="39" />
+                        <normal x="1" y="-3.82674e-008" z="-1.22266e-008" />
+                        <texcoord u="0.0195212" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="-39" />
+                        <normal x="-1.5282e-010" y="1" z="-1.20738e-008" />
+                        <texcoord u="0.0171498" v="0.0129043" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="24.9256" z="-40" />
+                        <normal x="1.19209e-008" y="1" z="-1.19209e-008" />
+                        <texcoord u="0.000499785" v="0.000499547" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="24.9256" z="40" />
+                        <normal x="-1.5282e-010" y="1" z="-1.20738e-008" />
+                        <texcoord u="0.000499487" v="0.992884" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="24.9256" z="40" />
+                        <normal x="-1.5282e-010" y="1" z="-1.20738e-008" />
+                        <texcoord u="0.000499487" v="0.992884" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="39" />
+                        <normal x="-1.22266e-008" y="1" z="-1.22266e-008" />
+                        <texcoord u="0.0171495" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="-39" />
+                        <normal x="-1.5282e-010" y="1" z="-1.20738e-008" />
+                        <texcoord u="0.0171498" v="0.0129043" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="24.9256" z="39" />
+                        <normal x="8.15106e-009" y="1" z="-8.15106e-009" />
+                        <texcoord u="0.98285" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="39" />
+                        <normal x="-1.22266e-008" y="1" z="-1.22266e-008" />
+                        <texcoord u="0.0171495" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="24.9256" z="40" />
+                        <normal x="-1.5282e-010" y="1" z="-1.20738e-008" />
+                        <texcoord u="0.000499487" v="0.992884" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="24.9256" z="40" />
+                        <normal x="-1.5282e-010" y="1" z="-1.20738e-008" />
+                        <texcoord u="0.000499487" v="0.992884" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="24.9256" z="40" />
+                        <normal x="2.03792e-010" y="1" z="-1.60983e-008" />
+                        <texcoord u="0.9995" v="0.992884" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="24.9256" z="39" />
+                        <normal x="8.15106e-009" y="1" z="-8.15106e-009" />
+                        <texcoord u="0.98285" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="24.9256" z="-39" />
+                        <normal x="2.03792e-010" y="1" z="-1.60983e-008" />
+                        <texcoord u="0.98285" v="0.0129045" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="24.9256" z="39" />
+                        <normal x="8.15106e-009" y="1" z="-8.15106e-009" />
+                        <texcoord u="0.98285" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="24.9256" z="40" />
+                        <normal x="2.03792e-010" y="1" z="-1.60983e-008" />
+                        <texcoord u="0.9995" v="0.992884" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="24.9256" z="40" />
+                        <normal x="2.03792e-010" y="1" z="-1.60983e-008" />
+                        <texcoord u="0.9995" v="0.992884" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="24.9256" z="-40" />
+                        <normal x="-7.94727e-009" y="1" z="-7.94729e-009" />
+                        <texcoord u="0.999501" v="0.000499725" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="24.9256" z="-39" />
+                        <normal x="2.03792e-010" y="1" z="-1.60983e-008" />
+                        <texcoord u="0.98285" v="0.0129045" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="-39" />
+                        <normal x="-1.5282e-010" y="1" z="-1.20738e-008" />
+                        <texcoord u="0.0171498" v="0.0129043" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="24.9256" z="-39" />
+                        <normal x="2.03792e-010" y="1" z="-1.60983e-008" />
+                        <texcoord u="0.98285" v="0.0129045" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="24.9256" z="-40" />
+                        <normal x="-7.94727e-009" y="1" z="-7.94729e-009" />
+                        <texcoord u="0.999501" v="0.000499725" />
+                    </vertex>
+                    <vertex>
+                        <position x="30" y="24.9256" z="-40" />
+                        <normal x="-7.94727e-009" y="1" z="-7.94729e-009" />
+                        <texcoord u="0.999501" v="0.000499725" />
+                    </vertex>
+                    <vertex>
+                        <position x="-30" y="24.9256" z="-40" />
+                        <normal x="1.19209e-008" y="1" z="-1.19209e-008" />
+                        <texcoord u="0.000499785" v="0.000499547" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="-39" />
+                        <normal x="-1.5282e-010" y="1" z="-1.20738e-008" />
+                        <texcoord u="0.0171498" v="0.0129043" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2712" y="21.4137" z="39" />
+                        <normal x="-4.22858e-005" y="-2.63231e-006" z="-1" />
+                        <texcoord u="0.312334" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.4137" z="39" />
+                        <normal x="-5.60065e-005" y="-7.66871e-006" z="-1" />
+                        <texcoord u="0.313047" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.7195" z="39" />
+                        <normal x="-1.57806e-005" y="-4.99023e-006" z="-1" />
+                        <texcoord u="0.313047" v="0.129021" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="21.7573" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.312278" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2712" y="21.4137" z="39" />
+                        <normal x="-4.22858e-005" y="-2.63231e-006" z="-1" />
+                        <texcoord u="0.312334" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.7195" z="39" />
+                        <normal x="-1.57806e-005" y="-4.99023e-006" z="-1" />
+                        <texcoord u="0.313047" v="0.129021" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="21.7573" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.312278" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.7195" z="39" />
+                        <normal x="-1.57806e-005" y="-4.99023e-006" z="-1" />
+                        <texcoord u="0.313047" v="0.129021" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.7573" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.313047" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.7195" z="39" />
+                        <normal x="-1.57806e-005" y="-4.99023e-006" z="-1" />
+                        <texcoord u="0.313047" v="0.129021" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.4137" z="39" />
+                        <normal x="-5.60065e-005" y="-7.66871e-006" z="-1" />
+                        <texcoord u="0.313047" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="21.4137" z="39" />
+                        <normal x="5.10693e-006" y="-6.2377e-006" z="-1" />
+                        <texcoord u="0.319265" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="21.4137" z="39" />
+                        <normal x="5.10693e-006" y="-6.2377e-006" z="-1" />
+                        <texcoord u="0.319265" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.7573" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.313047" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.7195" z="39" />
+                        <normal x="-1.57806e-005" y="-4.99023e-006" z="-1" />
+                        <texcoord u="0.313047" v="0.129021" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2712" y="21.4137" z="39" />
+                        <normal x="-4.22858e-005" y="-2.63231e-006" z="-1" />
+                        <texcoord u="0.312334" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="0.382838" z="39" />
+                        <normal x="3.91229e-006" y="7.38419e-005" z="-1" />
+                        <texcoord u="0.312278" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="0.378894" z="39" />
+                        <normal x="-1.84281e-005" y="7.18538e-005" z="-1" />
+                        <texcoord u="0.319265" v="0.984483" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="0.378894" z="39" />
+                        <normal x="-1.84281e-005" y="7.18538e-005" z="-1" />
+                        <texcoord u="0.319265" v="0.984483" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.4137" z="39" />
+                        <normal x="-5.60065e-005" y="-7.66871e-006" z="-1" />
+                        <texcoord u="0.313047" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2712" y="21.4137" z="39" />
+                        <normal x="-4.22858e-005" y="-2.63231e-006" z="-1" />
+                        <texcoord u="0.312334" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="39" />
+                        <normal x="0.316228" y="-1.53629e-005" z="-0.948683" />
+                        <texcoord u="0.689501" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.7573" z="39" />
+                        <normal x="0" y="-3.82172e-005" z="-1" />
+                        <texcoord u="0.687691" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.4137" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.687691" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="21.4137" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.682513" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="9.62057" z="39" />
+                        <normal x="0.447214" y="1.84676e-007" z="-0.894427" />
+                        <texcoord u="0.689501" v="0.614019" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.2824" z="39" />
+                        <normal x="0.707107" y="0" z="-0.707107" />
+                        <texcoord u="0.689501" v="0.14654" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.4137" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.687691" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="21.4137" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.682513" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.2824" z="39" />
+                        <normal x="0.707107" y="0" z="-0.707107" />
+                        <texcoord u="0.689501" v="0.14654" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.4137" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.687691" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.2824" z="39" />
+                        <normal x="0.707107" y="0" z="-0.707107" />
+                        <texcoord u="0.689501" v="0.14654" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.4352" z="39" />
+                        <normal x="0.447214" y="0" z="-0.894427" />
+                        <texcoord u="0.689501" v="0.140415" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="39" />
+                        <normal x="0.316228" y="-1.53629e-005" z="-0.948683" />
+                        <texcoord u="0.689501" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.4137" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.687691" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.4352" z="39" />
+                        <normal x="0.447214" y="0" z="-0.894427" />
+                        <texcoord u="0.689501" v="0.140415" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="21.4137" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.682513" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.4137" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.687691" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.7573" z="39" />
+                        <normal x="0" y="-3.82172e-005" z="-1" />
+                        <texcoord u="0.687691" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.7573" z="39" />
+                        <normal x="0" y="-3.82172e-005" z="-1" />
+                        <texcoord u="0.687691" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2172" y="21.7573" z="39" />
+                        <normal x="-4.98886e-006" y="0.00136135" z="-0.999999" />
+                        <texcoord u="0.686766" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="21.4137" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.682513" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="9.84963" z="39" />
+                        <normal x="4.43226e-006" y="2.06474e-007" z="-1" />
+                        <texcoord u="0.682513" v="0.604837" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.374031" z="39" />
+                        <normal x="2.2189e-006" y="-5.09812e-006" z="-1" />
+                        <texcoord u="0.689501" v="0.984678" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.382838" z="39" />
+                        <normal x="0.447215" y="1.32245e-007" z="-0.894427" />
+                        <texcoord u="0.689501" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.382838" z="39" />
+                        <normal x="0.447215" y="1.32245e-007" z="-0.894427" />
+                        <texcoord u="0.689501" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="9.62057" z="39" />
+                        <normal x="0.447214" y="1.84676e-007" z="-0.894427" />
+                        <texcoord u="0.689501" v="0.614019" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="9.84963" z="39" />
+                        <normal x="4.43226e-006" y="2.06474e-007" z="-1" />
+                        <texcoord u="0.682513" v="0.604837" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7972" z="39" />
+                        <normal x="-1.81991e-006" y="0.000462632" z="-1" />
+                        <texcoord u="0.496875" v="0.125905" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="21.7573" z="39" />
+                        <normal x="-6.29003e-007" y="-4.45563e-005" z="-1" />
+                        <texcoord u="0.319265" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7573" z="39" />
+                        <normal x="0" y="-9.55429e-005" z="-1" />
+                        <texcoord u="0.496875" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="39" />
+                        <normal x="0.316228" y="-1.53629e-005" z="-0.948683" />
+                        <texcoord u="0.0195211" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.4352" z="39" />
+                        <normal x="0.447214" y="0" z="-0.894427" />
+                        <texcoord u="0.0195211" v="0.140415" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.2824" z="39" />
+                        <normal x="0.707107" y="0" z="-0.707107" />
+                        <texcoord u="0.0195211" v="0.14654" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.2824" z="39" />
+                        <normal x="0.707107" y="0" z="-0.707107" />
+                        <texcoord u="0.0195211" v="0.14654" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="9.62057" z="39" />
+                        <normal x="0.447214" y="1.84676e-007" z="-0.894427" />
+                        <texcoord u="0.0195211" v="0.614019" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.382838" z="39" />
+                        <normal x="0.447215" y="1.32245e-007" z="-0.894427" />
+                        <texcoord u="0.0195211" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="39" />
+                        <normal x="0.316228" y="-1.53629e-005" z="-0.948683" />
+                        <texcoord u="0.0195211" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.2824" z="39" />
+                        <normal x="0.707107" y="0" z="-0.707107" />
+                        <texcoord u="0.0195211" v="0.14654" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.382838" z="39" />
+                        <normal x="0.447215" y="1.32245e-007" z="-0.894427" />
+                        <texcoord u="0.0195211" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="21.7573" z="39" />
+                        <normal x="1.47733e-007" y="-2.383e-008" z="-1" />
+                        <texcoord u="0.312278" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.7609" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.313047" v="0.12736" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2338" y="21.832" z="39" />
+                        <normal x="-5.3904e-007" y="-1.72126e-005" z="-1" />
+                        <texcoord u="0.312957" v="0.124509" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2338" y="21.832" z="39" />
+                        <normal x="-5.3904e-007" y="-1.72126e-005" z="-1" />
+                        <texcoord u="0.312957" v="0.124509" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.7573" z="39" />
+                        <normal x="2.60605e-010" y="-5.10295e-005" z="-1" />
+                        <texcoord u="0.313047" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="21.7573" z="39" />
+                        <normal x="-6.29003e-007" y="-4.45563e-005" z="-1" />
+                        <texcoord u="0.319265" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="21.7573" z="39" />
+                        <normal x="-6.29003e-007" y="-4.45563e-005" z="-1" />
+                        <texcoord u="0.319265" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7972" z="39" />
+                        <normal x="-1.81991e-006" y="0.000462632" z="-1" />
+                        <texcoord u="0.496875" v="0.125905" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="39" />
+                        <normal x="-5.67959e-007" y="-6.44374e-006" z="-1" />
+                        <texcoord u="0.98285" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2338" y="21.832" z="39" />
+                        <normal x="-5.3904e-007" y="-1.72126e-005" z="-1" />
+                        <texcoord u="0.312957" v="0.124509" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="21.7573" z="39" />
+                        <normal x="-6.29003e-007" y="-4.45563e-005" z="-1" />
+                        <texcoord u="0.319265" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="39" />
+                        <normal x="-5.67959e-007" y="-6.44374e-006" z="-1" />
+                        <texcoord u="0.98285" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2338" y="21.832" z="39" />
+                        <normal x="-5.3904e-007" y="-1.72126e-005" z="-1" />
+                        <texcoord u="0.312957" v="0.124509" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="39" />
+                        <normal x="-5.67959e-007" y="-6.44374e-006" z="-1" />
+                        <texcoord u="0.98285" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="24.9256" z="39" />
+                        <normal x="1.108e-007" y="2.90405e-007" z="-1" />
+                        <texcoord u="0.0171498" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="21.7573" z="39" />
+                        <normal x="1.47733e-007" y="-2.383e-008" z="-1" />
+                        <texcoord u="0.312278" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2338" y="21.832" z="39" />
+                        <normal x="-5.3904e-007" y="-1.72126e-005" z="-1" />
+                        <texcoord u="0.312957" v="0.124509" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="24.9256" z="39" />
+                        <normal x="1.108e-007" y="2.90405e-007" z="-1" />
+                        <texcoord u="0.0171498" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="0.382838" z="39" />
+                        <normal x="3.91229e-006" y="7.38419e-005" z="-1" />
+                        <texcoord u="0.312278" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="21.7573" z="39" />
+                        <normal x="1.47733e-007" y="-2.383e-008" z="-1" />
+                        <texcoord u="0.312278" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="24.9256" z="39" />
+                        <normal x="1.108e-007" y="2.90405e-007" z="-1" />
+                        <texcoord u="0.0171498" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="0.382838" z="39" />
+                        <normal x="3.91229e-006" y="7.38419e-005" z="-1" />
+                        <texcoord u="0.312278" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="24.9256" z="39" />
+                        <normal x="1.108e-007" y="2.90405e-007" z="-1" />
+                        <texcoord u="0.0171498" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="0.00426674" z="39" />
+                        <normal x="1.57858e-006" y="6.8788e-005" z="-1" />
+                        <texcoord u="0.0171498" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="0.378894" z="39" />
+                        <normal x="-1.84281e-005" y="7.18538e-005" z="-1" />
+                        <texcoord u="0.319265" v="0.984483" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="0.382838" z="39" />
+                        <normal x="3.91229e-006" y="7.38419e-005" z="-1" />
+                        <texcoord u="0.312278" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="0.00426674" z="39" />
+                        <normal x="1.57858e-006" y="6.8788e-005" z="-1" />
+                        <texcoord u="0.0171498" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.374031" z="39" />
+                        <normal x="2.2189e-006" y="-5.09812e-006" z="-1" />
+                        <texcoord u="0.689501" v="0.984678" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="0.378894" z="39" />
+                        <normal x="-1.84281e-005" y="7.18538e-005" z="-1" />
+                        <texcoord u="0.319265" v="0.984483" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="0.00426674" z="39" />
+                        <normal x="1.57858e-006" y="6.8788e-005" z="-1" />
+                        <texcoord u="0.0171498" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.374031" z="39" />
+                        <normal x="2.2189e-006" y="-5.09812e-006" z="-1" />
+                        <texcoord u="0.689501" v="0.984678" />
+                    </vertex>
+                    <vertex>
+                        <position x="29" y="0.00426674" z="39" />
+                        <normal x="1.57858e-006" y="6.8788e-005" z="-1" />
+                        <texcoord u="0.0171498" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="0.00426579" z="39" />
+                        <normal x="-1.09216e-007" y="-2.53452e-006" z="-1" />
+                        <texcoord u="0.98285" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.382838" z="39" />
+                        <normal x="0.447215" y="1.32245e-007" z="-0.894427" />
+                        <texcoord u="0.689501" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.374031" z="39" />
+                        <normal x="2.2189e-006" y="-5.09812e-006" z="-1" />
+                        <texcoord u="0.689501" v="0.984678" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="0.00426579" z="39" />
+                        <normal x="-1.09216e-007" y="-2.53452e-006" z="-1" />
+                        <texcoord u="0.98285" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="39" />
+                        <normal x="0.316228" y="-1.53629e-005" z="-0.948683" />
+                        <texcoord u="0.689501" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.382838" z="39" />
+                        <normal x="0.447215" y="1.32245e-007" z="-0.894427" />
+                        <texcoord u="0.689501" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="0.00426579" z="39" />
+                        <normal x="-1.09216e-007" y="-2.53452e-006" z="-1" />
+                        <texcoord u="0.98285" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="39" />
+                        <normal x="0.316228" y="-1.53629e-005" z="-0.948683" />
+                        <texcoord u="0.689501" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="0.00426579" z="39" />
+                        <normal x="-1.09216e-007" y="-2.53452e-006" z="-1" />
+                        <texcoord u="0.98285" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="39" />
+                        <normal x="-5.67959e-007" y="-6.44374e-006" z="-1" />
+                        <texcoord u="0.98285" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="39" />
+                        <normal x="0.316228" y="-1.53629e-005" z="-0.948683" />
+                        <texcoord u="0.689501" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-29" y="24.9256" z="39" />
+                        <normal x="-5.67959e-007" y="-6.44374e-006" z="-1" />
+                        <texcoord u="0.98285" v="0.000499487" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7972" z="39" />
+                        <normal x="-1.81991e-006" y="0.000462632" z="-1" />
+                        <texcoord u="0.496875" v="0.125905" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.7573" z="39" />
+                        <normal x="0" y="-3.82172e-005" z="-1" />
+                        <texcoord u="0.687691" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="39" />
+                        <normal x="0.316228" y="-1.53629e-005" z="-0.948683" />
+                        <texcoord u="0.689501" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7972" z="39" />
+                        <normal x="-1.81991e-006" y="0.000462632" z="-1" />
+                        <texcoord u="0.496875" v="0.125905" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2172" y="21.7573" z="39" />
+                        <normal x="-4.98886e-006" y="0.00136135" z="-0.999999" />
+                        <texcoord u="0.686766" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.7573" z="39" />
+                        <normal x="0" y="-3.82172e-005" z="-1" />
+                        <texcoord u="0.687691" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7972" z="39" />
+                        <normal x="-1.81991e-006" y="0.000462632" z="-1" />
+                        <texcoord u="0.496875" v="0.125905" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="21.7573" z="39" />
+                        <normal x="-7.30553e-006" y="0.00204016" z="-0.999998" />
+                        <texcoord u="0.682513" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2172" y="21.7573" z="39" />
+                        <normal x="-4.98886e-006" y="0.00136135" z="-0.999999" />
+                        <texcoord u="0.686766" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7972" z="39" />
+                        <normal x="-1.81991e-006" y="0.000462632" z="-1" />
+                        <texcoord u="0.496875" v="0.125905" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7972" z="39" />
+                        <normal x="-1.81991e-006" y="0.000462632" z="-1" />
+                        <texcoord u="0.496875" v="0.125905" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7573" z="39" />
+                        <normal x="0" y="-9.55429e-005" z="-1" />
+                        <texcoord u="0.496875" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231983" y="21.7573" z="39" />
+                        <normal x="1.77754e-007" y="-9.74113e-005" z="-1" />
+                        <texcoord u="0.503863" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="21.7573" z="39" />
+                        <normal x="-7.30553e-006" y="0.00204016" z="-0.999998" />
+                        <texcoord u="0.682513" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7972" z="39" />
+                        <normal x="-1.81991e-006" y="0.000462632" z="-1" />
+                        <texcoord u="0.496875" v="0.125905" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231983" y="21.7573" z="39" />
+                        <normal x="1.77754e-007" y="-9.74113e-005" z="-1" />
+                        <texcoord u="0.503863" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.374031" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.689501" v="0.984678" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="0.382838" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.682513" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231982" y="0.380898" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.503863" v="0.984403" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231982" y="0.380898" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.503863" v="0.984403" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187679" y="0.380822" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.496875" v="0.984406" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.374031" z="39" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.689501" v="0.984678" />
+                    </vertex>
+                </vertexbuffer>
+            </geometry>
+        </submesh>
+        <submesh material="house_inside04-Default" usesharedvertices="false" use32bitindexes="false" operationtype="triangle_list">
+            <faces count="42">
+                <face v1="0" v2="1" v3="2" />
+                <face v1="3" v2="4" v3="5" />
+                <face v1="6" v2="7" v3="8" />
+                <face v1="9" v2="10" v3="11" />
+                <face v1="12" v2="13" v3="14" />
+                <face v1="15" v2="16" v3="17" />
+                <face v1="18" v2="19" v3="20" />
+                <face v1="21" v2="22" v3="23" />
+                <face v1="24" v2="25" v3="26" />
+                <face v1="27" v2="28" v3="29" />
+                <face v1="30" v2="31" v3="32" />
+                <face v1="33" v2="34" v3="35" />
+                <face v1="36" v2="37" v3="38" />
+                <face v1="39" v2="40" v3="41" />
+                <face v1="42" v2="43" v3="44" />
+                <face v1="45" v2="46" v3="47" />
+                <face v1="48" v2="49" v3="50" />
+                <face v1="51" v2="52" v3="53" />
+                <face v1="54" v2="55" v3="56" />
+                <face v1="57" v2="58" v3="59" />
+                <face v1="60" v2="61" v3="62" />
+                <face v1="63" v2="64" v3="65" />
+                <face v1="66" v2="67" v3="68" />
+                <face v1="69" v2="70" v3="71" />
+                <face v1="72" v2="73" v3="74" />
+                <face v1="75" v2="76" v3="77" />
+                <face v1="78" v2="79" v3="80" />
+                <face v1="81" v2="82" v3="83" />
+                <face v1="84" v2="85" v3="86" />
+                <face v1="87" v2="88" v3="89" />
+                <face v1="90" v2="91" v3="92" />
+                <face v1="93" v2="94" v3="95" />
+                <face v1="96" v2="97" v3="98" />
+                <face v1="99" v2="100" v3="101" />
+                <face v1="102" v2="103" v3="104" />
+                <face v1="105" v2="106" v3="107" />
+                <face v1="108" v2="109" v3="110" />
+                <face v1="111" v2="112" v3="113" />
+                <face v1="114" v2="115" v3="116" />
+                <face v1="117" v2="118" v3="119" />
+                <face v1="120" v2="121" v3="122" />
+                <face v1="123" v2="124" v3="125" />
+            </faces>
+            <geometry vertexcount="126">
+                <vertexbuffer positions="true" normals="true" texture_coord_dimensions_0="2" texture_coords="1">
+                    <vertex>
+                        <position x="10.8549" y="21.7573" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.680735" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="0.382838" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.680735" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="0.382838" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.687722" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="0.382838" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.687722" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="21.7573" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.687722" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="21.7573" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.680735" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="21.7573" z="40.5334" />
+                        <normal x="0.999995" y="-0.00321797" z="-0.000745463" />
+                        <texcoord u="0.000499517" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="0.382838" z="40.5334" />
+                        <normal x="1" y="4.46175e-008" z="0" />
+                        <texcoord u="0.000499517" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="0.382838" z="39" />
+                        <normal x="0.999999" y="8.024e-005" z="-0.00111786" />
+                        <texcoord u="0.0195211" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="21.7573" z="40.5334" />
+                        <normal x="0.999995" y="-0.00321797" z="-0.000745463" />
+                        <texcoord u="0.000499517" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="0.382838" z="39" />
+                        <normal x="0.999999" y="8.024e-005" z="-0.00111786" />
+                        <texcoord u="0.0195211" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2712" y="21.4137" z="39" />
+                        <normal x="0.999988" y="-0.00482699" z="-0.0011182" />
+                        <texcoord u="0.0195211" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="21.7573" z="39" />
+                        <normal x="0.999952" y="-0.00981428" z="-6.34113e-007" />
+                        <texcoord u="0.0195211" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="21.7573" z="40.5334" />
+                        <normal x="0.999995" y="-0.00321797" z="-0.000745463" />
+                        <texcoord u="0.000499517" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2712" y="21.4137" z="39" />
+                        <normal x="0.999988" y="-0.00482699" z="-0.0011182" />
+                        <texcoord u="0.0195211" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="21.7573" z="40.5334" />
+                        <normal x="1.20655e-005" y="1" z="5.01186e-006" />
+                        <texcoord u="0.680735" v="0.999501" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="21.7573" z="40.5334" />
+                        <normal x="0" y="1" z="1.24387e-006" />
+                        <texcoord u="0.687722" v="0.999501" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="21.7573" z="39" />
+                        <normal x="2.06518e-005" y="1" z="6.89585e-006" />
+                        <texcoord u="0.687722" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="21.7573" z="40.5334" />
+                        <normal x="1.20655e-005" y="1" z="5.01186e-006" />
+                        <texcoord u="0.680735" v="0.999501" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="21.7573" z="39" />
+                        <normal x="2.06518e-005" y="1" z="6.89585e-006" />
+                        <texcoord u="0.687722" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.7573" z="39" />
+                        <normal x="1.80983e-005" y="1" z="6.89585e-006" />
+                        <texcoord u="0.686953" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="21.7573" z="39" />
+                        <normal x="-5.10694e-006" y="1" z="1.24387e-006" />
+                        <texcoord u="0.680735" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="21.7573" z="40.5334" />
+                        <normal x="1.20655e-005" y="1" z="5.01186e-006" />
+                        <texcoord u="0.680735" v="0.999501" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.7573" z="39" />
+                        <normal x="1.80983e-005" y="1" z="6.89585e-006" />
+                        <texcoord u="0.686953" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="0.382838" z="40.5334" />
+                        <normal x="-1" y="-4.46175e-008" z="-2.77492e-014" />
+                        <texcoord u="0.999501" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="21.7573" z="40.5334" />
+                        <normal x="-1" y="-4.46175e-008" z="-5.54984e-014" />
+                        <texcoord u="0.999501" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="21.7573" z="39" />
+                        <normal x="-1" y="-4.46175e-008" z="-2.77492e-014" />
+                        <texcoord u="0.980479" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="21.7573" z="39" />
+                        <normal x="-1" y="-4.46175e-008" z="-2.77492e-014" />
+                        <texcoord u="0.980479" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="0.382838" z="39" />
+                        <normal x="-1" y="-4.46175e-008" z="0" />
+                        <texcoord u="0.980479" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="0.382838" z="40.5334" />
+                        <normal x="-1" y="-4.46175e-008" z="-2.77492e-014" />
+                        <texcoord u="0.999501" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.832" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.686953" v="0.124509" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.832" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.312309" v="0.124509" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.4137" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.312309" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.4137" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.312309" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.4137" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.686953" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.832" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.686953" v="0.124509" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.4137" z="40.5334" />
+                        <normal x="4.23834e-008" y="-1" z="-6.21935e-007" />
+                        <texcoord u="0.313047" v="0.999501" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.4137" z="40.5334" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.687691" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.4137" z="39" />
+                        <normal x="4.23834e-008" y="-1" z="-6.21935e-007" />
+                        <texcoord u="0.687691" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.4137" z="39" />
+                        <normal x="4.23834e-008" y="-1" z="-6.21935e-007" />
+                        <texcoord u="0.687691" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.4137" z="39" />
+                        <normal x="8.47667e-008" y="-1" z="-1.24387e-006" />
+                        <texcoord u="0.313047" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.4137" z="40.5334" />
+                        <normal x="4.23834e-008" y="-1" z="-6.21935e-007" />
+                        <texcoord u="0.313047" v="0.999501" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.832" z="40.5334" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.000499517" v="0.124509" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.4137" z="40.5334" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.000499517" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.4137" z="39" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.0195211" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.4137" z="39" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.0195211" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.832" z="39" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.0195211" v="0.124509" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.832" z="40.5334" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.000499517" v="0.124509" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.832" z="40.5334" />
+                        <normal x="0" y="1" z="0" />
+                        <texcoord u="0.312309" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.832" z="40.5334" />
+                        <normal x="0" y="1" z="0" />
+                        <texcoord u="0.686953" v="0.999501" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.832" z="39" />
+                        <normal x="0" y="1" z="0" />
+                        <texcoord u="0.686953" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2284" y="21.832" z="39" />
+                        <normal x="0" y="1" z="0" />
+                        <texcoord u="0.686953" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.832" z="39" />
+                        <normal x="0" y="1" z="0" />
+                        <texcoord u="0.312309" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.832" z="40.5334" />
+                        <normal x="0" y="1" z="0" />
+                        <texcoord u="0.312309" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.310499" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.382838" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.310499" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="0.382838" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.317487" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="0.382838" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.317487" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="21.7573" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.317487" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.310499" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="21.7573" z="40.5334" />
+                        <normal x="1" y="1.11544e-007" z="-3.10968e-007" />
+                        <texcoord u="0.000499636" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="0.382838" z="40.5334" />
+                        <normal x="1" y="8.92351e-008" z="0" />
+                        <texcoord u="0.000499636" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="0.382838" z="39" />
+                        <normal x="1" y="1.11544e-007" z="-3.10968e-007" />
+                        <texcoord u="0.0195211" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="0.382838" z="39" />
+                        <normal x="1" y="1.11544e-007" z="-3.10968e-007" />
+                        <texcoord u="0.0195211" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="21.7573" z="39" />
+                        <normal x="1" y="1.33853e-007" z="-6.21935e-007" />
+                        <texcoord u="0.0195211" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="21.7573" z="40.5334" />
+                        <normal x="1" y="1.11544e-007" z="-3.10968e-007" />
+                        <texcoord u="0.000499636" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="40.5334" />
+                        <normal x="0" y="1" z="1.24387e-006" />
+                        <texcoord u="0.310499" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="21.7573" z="40.5334" />
+                        <normal x="0" y="1" z="1.24387e-006" />
+                        <texcoord u="0.317487" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="21.7573" z="39" />
+                        <normal x="0" y="1" z="1.24387e-006" />
+                        <texcoord u="0.317487" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="21.7573" z="39" />
+                        <normal x="0" y="1" z="1.24387e-006" />
+                        <texcoord u="0.317487" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="39" />
+                        <normal x="0" y="1" z="1.24387e-006" />
+                        <texcoord u="0.310499" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="40.5334" />
+                        <normal x="0" y="1" z="1.24387e-006" />
+                        <texcoord u="0.310499" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.382838" z="40.5334" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.9995" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="40.5334" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.9995" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="39" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.980479" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="21.7573" z="39" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.980479" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.382838" z="39" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.980479" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.382838" z="40.5334" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.9995" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231983" y="21.7573" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.496137" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231982" y="0.382838" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.496137" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187679" y="0.382838" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.503125" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187679" y="0.382838" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.503125" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7573" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.503125" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231983" y="21.7573" z="40.5334" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.496137" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7573" z="40.5334" />
+                        <normal x="1" y="4.46175e-008" z="2.77492e-014" />
+                        <texcoord u="0.000499576" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187679" y="0.382838" z="40.5334" />
+                        <normal x="1" y="4.46175e-008" z="0" />
+                        <texcoord u="0.000499576" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187679" y="0.382838" z="39" />
+                        <normal x="1" y="4.46175e-008" z="2.77492e-014" />
+                        <texcoord u="0.0195211" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187679" y="0.382838" z="39" />
+                        <normal x="1" y="4.46175e-008" z="2.77492e-014" />
+                        <texcoord u="0.0195211" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7573" z="39" />
+                        <normal x="1" y="4.46175e-008" z="5.54984e-014" />
+                        <texcoord u="0.0195211" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7573" z="40.5334" />
+                        <normal x="1" y="4.46175e-008" z="2.77492e-014" />
+                        <texcoord u="0.000499576" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231983" y="21.7573" z="40.5334" />
+                        <normal x="0" y="1" z="1.24387e-006" />
+                        <texcoord u="0.496137" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7573" z="40.5334" />
+                        <normal x="0" y="1" z="1.24387e-006" />
+                        <texcoord u="0.503125" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7573" z="39" />
+                        <normal x="0" y="1" z="1.24387e-006" />
+                        <texcoord u="0.503125" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187678" y="21.7573" z="39" />
+                        <normal x="0" y="1" z="1.24387e-006" />
+                        <texcoord u="0.503125" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231983" y="21.7573" z="39" />
+                        <normal x="0" y="1" z="1.24387e-006" />
+                        <texcoord u="0.496137" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231983" y="21.7573" z="40.5334" />
+                        <normal x="0" y="1" z="1.24387e-006" />
+                        <texcoord u="0.496137" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231982" y="0.382838" z="40.5334" />
+                        <normal x="-1" y="-4.46175e-008" z="-2.77492e-014" />
+                        <texcoord u="0.9995" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231983" y="21.7573" z="40.5334" />
+                        <normal x="-1" y="-4.46175e-008" z="-5.54984e-014" />
+                        <texcoord u="0.9995" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231983" y="21.7573" z="39" />
+                        <normal x="-1" y="-4.46175e-008" z="-2.77492e-014" />
+                        <texcoord u="0.980479" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231983" y="21.7573" z="39" />
+                        <normal x="-1" y="-4.46175e-008" z="-2.77492e-014" />
+                        <texcoord u="0.980479" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231982" y="0.382838" z="39" />
+                        <normal x="-1" y="-4.46175e-008" z="0" />
+                        <texcoord u="0.980479" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231982" y="0.382838" z="40.5334" />
+                        <normal x="-1" y="-4.46175e-008" z="-2.77492e-014" />
+                        <texcoord u="0.9995" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="0.382838" z="40.5334" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.312278" v="0.999501" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="0.382838" z="40.5334" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.319265" v="0.999501" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="0.382838" z="39" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.319265" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="10.8549" y="0.382838" z="39" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.319265" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="0.382838" z="39" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.312278" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.2746" y="0.382838" z="40.5334" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.312278" v="0.999501" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.4137" z="40.5334" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.9995" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.832" z="40.5334" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.9995" v="0.124509" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.832" z="39" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.980479" v="0.124509" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.832" z="39" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.980479" v="0.124509" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.4137" z="39" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.980479" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.2727" y="21.4137" z="40.5334" />
+                        <normal x="-1" y="0" z="0" />
+                        <texcoord u="0.9995" v="0.141278" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="0.382838" z="40.5334" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.682513" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.382838" z="40.5334" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.689501" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.382838" z="39" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.689501" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.3814" y="0.382838" z="39" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.689501" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="0.382838" z="39" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.682513" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-10.9617" y="0.382838" z="40.5334" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.682513" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187679" y="0.382838" z="40.5334" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.496875" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231982" y="0.382838" z="40.5334" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.503863" v="0.9995" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231982" y="0.382838" z="39" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.503863" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="-0.231982" y="0.382838" z="39" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.503863" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187679" y="0.382838" z="39" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.496875" v="0.980479" />
+                    </vertex>
+                    <vertex>
+                        <position x="0.187679" y="0.382838" z="40.5334" />
+                        <normal x="0" y="-1" z="0" />
+                        <texcoord u="0.496875" v="0.9995" />
+                    </vertex>
+                </vertexbuffer>
+            </geometry>
+        </submesh>
+        <submesh material="house_inside03-Default" usesharedvertices="false" use32bitindexes="false" operationtype="triangle_list">
+            <faces count="12">
+                <face v1="0" v2="1" v3="2" />
+                <face v1="3" v2="4" v3="5" />
+                <face v1="6" v2="7" v3="8" />
+                <face v1="9" v2="10" v3="11" />
+                <face v1="12" v2="13" v3="14" />
+                <face v1="15" v2="16" v3="17" />
+                <face v1="18" v2="19" v3="20" />
+                <face v1="21" v2="22" v3="23" />
+                <face v1="24" v2="25" v3="26" />
+                <face v1="27" v2="28" v3="29" />
+                <face v1="30" v2="31" v3="32" />
+                <face v1="33" v2="34" v3="35" />
+            </faces>
+            <geometry vertexcount="36">
+                <vertexbuffer positions="true" normals="true" texture_coord_dimensions_0="2" texture_coords="1">
+                    <vertex>
+                        <position x="-11.1061" y="21.7573" z="39.4284" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.684916" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="21.7573" z="39.4284" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.315215" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="0.382839" z="39.4284" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.315215" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="0.382839" z="39.4284" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.315215" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="0.382837" z="39.4284" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.684916" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="21.7573" z="39.4284" />
+                        <normal x="0" y="0" z="-1" />
+                        <texcoord u="0.684916" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="21.7573" z="40.3027" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.315084" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="0.382837" z="40.3027" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.315084" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="0.38284" z="40.3027" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.684785" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="0.38284" z="40.3027" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.684785" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="21.7573" z="40.3027" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.684785" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="21.7573" z="40.3027" />
+                        <normal x="0" y="0" z="1" />
+                        <texcoord u="0.315084" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="21.7573" z="40.3027" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.00336149" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="0.38284" z="40.3027" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.00336149" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="0.382839" z="39.4284" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.0142063" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="0.382839" z="39.4284" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.0142063" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="21.7573" z="39.4284" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.0142063" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="21.7573" z="40.3027" />
+                        <normal x="1" y="0" z="0" />
+                        <texcoord u="0.00336149" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="21.7573" z="40.3027" />
+                        <normal x="0" y="1" z="0" />
+                        <texcoord u="0.315084" v="0.996638" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="21.7573" z="40.3027" />
+                        <normal x="0" y="1" z="0" />
+                        <texcoord u="0.684785" v="0.996639" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="21.7573" z="39.4284" />
+                        <normal x="0" y="1" z="0" />
+                        <texcoord u="0.684785" v="0.985794" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="21.7573" z="39.4284" />
+                        <normal x="0" y="1" z="0" />
+                        <texcoord u="0.684785" v="0.985794" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="21.7573" z="39.4284" />
+                        <normal x="0" y="1" z="0" />
+                        <texcoord u="0.315084" v="0.985794" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="21.7573" z="40.3027" />
+                        <normal x="0" y="1" z="0" />
+                        <texcoord u="0.315084" v="0.996638" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="0.382837" z="40.3027" />
+                        <normal x="-1" y="0" z="1.09086e-006" />
+                        <texcoord u="0.996638" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="21.7573" z="40.3027" />
+                        <normal x="-1" y="0" z="1.09086e-006" />
+                        <texcoord u="0.996638" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="21.7573" z="39.4284" />
+                        <normal x="-1" y="0" z="1.09086e-006" />
+                        <texcoord u="0.985794" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="21.7573" z="39.4284" />
+                        <normal x="-1" y="0" z="1.09086e-006" />
+                        <texcoord u="0.985794" v="0.127505" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="0.382837" z="39.4284" />
+                        <normal x="-1" y="0" z="1.09086e-006" />
+                        <texcoord u="0.985794" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="0.382837" z="40.3027" />
+                        <normal x="-1" y="0" z="1.09086e-006" />
+                        <texcoord u="0.996638" v="0.984325" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="0.38284" z="40.3027" />
+                        <normal x="1.07375e-007" y="-1" z="5.4543e-007" />
+                        <texcoord u="0.315215" v="0.996639" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="0.382837" z="40.3027" />
+                        <normal x="1.2885e-007" y="-1" z="-1.40557e-013" />
+                        <texcoord u="0.684916" v="0.996638" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="0.382837" z="39.4284" />
+                        <normal x="1.07375e-007" y="-1" z="5.4543e-007" />
+                        <texcoord u="0.684916" v="0.985794" />
+                    </vertex>
+                    <vertex>
+                        <position x="-11.1061" y="0.382837" z="39.4284" />
+                        <normal x="1.07375e-007" y="-1" z="5.4543e-007" />
+                        <texcoord u="0.684916" v="0.985794" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="0.382839" z="39.4284" />
+                        <normal x="8.59e-008" y="-1" z="1.09086e-006" />
+                        <texcoord u="0.315215" v="0.985794" />
+                    </vertex>
+                    <vertex>
+                        <position x="11.0982" y="0.38284" z="40.3027" />
+                        <normal x="1.07375e-007" y="-1" z="5.4543e-007" />
+                        <texcoord u="0.315215" v="0.996639" />
+                    </vertex>
+                </vertexbuffer>
+            </geometry>
+        </submesh>
+    </submeshes>
+    <submeshnames>
+        <submeshname name="submesh2" index="2" />
+        <submeshname name="submesh1" index="1" />
+        <submeshname name="submesh0" index="0" />
+    </submeshnames>
+</mesh>

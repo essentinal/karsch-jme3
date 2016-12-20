@@ -1,0 +1,5 @@
+<item name="floor_grass_dark" type="LEVEL_STATIC">
+	<!-- <model asset="model/bin/floor_grass_dark.j3o">
+	</model> -->
+	<terrain texture="GRASS2_DARK.PNG" />
+</item>

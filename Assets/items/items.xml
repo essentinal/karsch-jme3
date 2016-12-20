@@ -1,0 +1,21 @@
+<items>
+    <item filename="items/characters/karsch.item.xml" />
+    <item filename="items/dynamics/interactablestone.item.xml" />
+    <item filename="items/markers/exit.item.xml" />
+    <item filename="items/markers/entrance.item.xml" />
+    <item filename="items/statics/blackwall.item.xml" />
+    <item filename="items/statics/fence1_edge.item.xml" />
+    <item filename="items/statics/fence1.item.xml" />
+    <item filename="items/statics/hay1.item.xml" />
+    <item filename="items/statics/hay2.item.xml" />
+    <item filename="items/statics/hay3.item.xml" />
+    <item filename="items/statics/house1.item.xml" />
+    <item filename="items/statics/stone1.item.xml" />
+    <item filename="items/statics/tree1.item.xml" />
+    <item filename="items/statics/wall.item.xml" />
+    <item filename="items/statics/rivertile.item.xml" />
+    <item filename="items/statics/rivertile_bridge1.item.xml" />
+    <item filename="items/statics/floor_grass.item.xml" />
+    <item filename="items/statics/floor_grass_dark.item.xml" />
+    <item filename="items/statics/floor_soil.item.xml" />
+</items>

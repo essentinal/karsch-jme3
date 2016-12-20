@@ -1,0 +1,41 @@
+<skeleton>
+    <bones>
+        <bone id="0" name="Bone001">
+            <position x="5.019" y="13.8937" z="8.63159" />
+            <rotation angle="2.0944">
+                <axis x="0.57735" y="0.57735" z="0.57735" />
+            </rotation>
+        </bone>
+        <bone id="1" name="Bone002">
+            <position x="256.42" y="1.12089e-005" z="4.19617e-005" />
+            <rotation angle="0.013514">
+                <axis x="-8.98674e-016" y="-1" z="4.37114e-008" />
+            </rotation>
+        </bone>
+        <bone id="2" name="Bone003">
+            <position x="256.443" y="1.13087e-005" z="5.91278e-005" />
+            <rotation angle="0.0408941">
+                <axis x="8.8621e-014" y="1" z="-4.37115e-008" />
+            </rotation>
+        </bone>
+        <bone id="3" name="Bone004">
+            <position x="253.05" y="1.08578e-005" z="0" />
+            <rotation angle="0.000976563">
+                <axis x="3.2871e-012" y="-1" z="4.37122e-008" />
+            </rotation>
+        </bone>
+        <bone id="4" name="Bone005">
+            <position x="263.442" y="1.13123e-005" z="4.57764e-005" />
+            <rotation angle="0">
+                <axis x="1" y="2.98023e-008" z="1.58151e-015" />
+            </rotation>
+        </bone>
+    </bones>
+    <bonehierarchy>
+        <boneparent bone="Bone002" parent="Bone001" />
+        <boneparent bone="Bone003" parent="Bone002" />
+        <boneparent bone="Bone004" parent="Bone003" />
+        <boneparent bone="Bone005" parent="Bone004" />
+    </bonehierarchy>
+    <animations />
+</skeleton>

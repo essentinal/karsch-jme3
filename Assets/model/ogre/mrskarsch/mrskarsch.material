@@ -1,0 +1,124 @@
+material mrskarsch15
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 1 1
+			diffuse 0 0 1 1
+			specular 0.081 0.081 0.081 1 10
+			emissive 0.5 0.5 0.5 1
+
+			texture_unit
+			{
+				texture dress1.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mrskarsch03-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0 0 0 1 37
+		}
+
+	}
+
+}
+
+
+
+material mrskarsch08-Default
+{
+	technique
+	{
+		pass
+		{
+			specular 0 0 0 1 1
+			emissive 1 1 1 1
+			ambient 1 1 1 1
+			diffuse 1 1 1 1
+		}
+
+	}
+
+}
+
+
+
+material mrskarsch03-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0 0 0 1 37
+		}
+
+	}
+
+}
+
+
+
+material mrskarsch02-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.94902 0.537255 0.682353 1
+			diffuse 0.94902 0.537255 0.682353 1
+			specular 0.054 0.054 0.054 1 10
+		}
+
+	}
+
+}
+
+
+
+material mrskarsch02-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.94902 0.537255 0.682353 1
+			diffuse 0.94902 0.537255 0.682353 1
+			specular 0.054 0.054 0.054 1 10
+		}
+
+	}
+
+}
+
+
+
+material mrskarsch01-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.862745 0.698039 0.756863 1
+			diffuse 0.862745 0.698039 0.756863 1
+			specular 0.099 0.099 0.099 1 10
+			emissive 0.28 0.28 0.28 1
+		}
+
+	}
+
+}

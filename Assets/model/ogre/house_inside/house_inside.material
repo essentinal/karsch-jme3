@@ -1,0 +1,107 @@
+material house_inside05-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1 1
+			diffuse 0.368627 0.368627 0.368627 1
+			specular 0 0 0 1 1
+			emissive 0.5 0.5 0.5 1
+
+			texture_unit
+			{
+				texture wood2_1.png
+				transform 0.5 0 0 0 0 0.5 0 0 0 0 1 0 0 0 0 1
+			}
+		}
+
+	}
+
+}
+
+
+
+material house_inside03-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1 1
+			diffuse 0.517647 0.419608 0.180392 1
+			specular 0.144 0.144 0.144 1 10
+			emissive 0.5 0.5 0.5 1
+
+			texture_unit
+			{
+				texture dirt2_1.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material house_inside01-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1 1
+			diffuse 0.866667 0.796079 0.65098 1
+			specular 0 0 0 1 1
+			emissive 0.5 0.5 0.5 1
+
+			texture_unit
+			{
+				texture wood2_1.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material house_inside04-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0 0 0 1 1
+		}
+
+	}
+
+}
+
+
+
+material house_inside03-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1 1
+			diffuse 0.517647 0.419608 0.180392 1
+			specular 0.144 0.144 0.144 1 10
+			emissive 0.5 0.5 0.5 1
+
+			texture_unit
+			{
+				texture dirt2_1.png
+			}
+		}
+
+	}
+
+}

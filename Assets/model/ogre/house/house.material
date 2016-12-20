@@ -1,0 +1,83 @@
+material 04-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0 0 0 1 1
+		}
+
+	}
+
+}
+
+
+
+material 03-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1 1
+			diffuse 0.368627 0.368627 0.368627 1
+			specular 0 0 0 1 1
+			emissive 0.5 0.5 0.5 1
+
+			texture_unit
+			{
+				texture wood2_1.png
+				transform 0.5 0 0 0 0 0.5 0 0 0 0 1 0 0 0 0 1
+			}
+		}
+
+	}
+
+}
+
+
+
+material 01-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1 1
+			diffuse 0.866667 0.796079 0.65098 1
+			specular 0 0 0 1 1
+			emissive 0.5 0.5 0.5 1
+
+			texture_unit
+			{
+				texture wood2_1.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material 02-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1 1
+			specular 0 0 0 1 7
+			emissive 0.5 0.5 0.5 1
+
+			texture_unit
+			{
+				texture roof1_1.png
+			}
+		}
+
+	}
+
+}

@@ -1,0 +1,6 @@
+<item name="hay1" type="LEVEL_STATIC">
+	<model asset="model/bin/hay1.j3o">
+		<scale x="0.02" y="0.02" z="0.02"/>
+	</model>
+	<collisiongroup name="ground_all" />
+</item>

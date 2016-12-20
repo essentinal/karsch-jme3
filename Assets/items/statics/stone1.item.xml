@@ -1,0 +1,6 @@
+<item name="stone1" type="LEVEL_STATIC">
+	<model asset="model/bin/stone.j3o">
+	</model>
+	<collisiongroup name="ground_all" />
+	<modifyterrain layer="stone" />
+</item>

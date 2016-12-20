@@ -1,0 +1,6 @@
+<item name="house1" type="LEVEL_STATIC">
+	<model asset="model/bin/house.j3o">
+		<scale x="0.95" y="1" z="0.95" />
+		<translate x="0" y="0" z="-0.8" />
+	</model>
+</item>

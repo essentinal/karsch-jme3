@@ -1,0 +1,19 @@
+
+material sheep16-Default
+{
+	technique
+	{
+		pass
+		{
+			specular 0.42 0.42 0.42 1 33
+			emissive 0.5 0.5 0.5 1
+
+			texture_unit
+			{
+				texture sheep1_1.png
+			}
+		}
+
+	}
+
+}

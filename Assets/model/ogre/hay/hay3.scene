@@ -1,0 +1,119 @@
+<scene formatVersion="1.0" upAxis="y" unitsPerMeter="39.3701" minOgreVersion="1.8" ogreMaxVersion="2.4.3" author="OgreMax Scene Exporter (www.ogremax.com)" application="3DS Max">
+    <nodes>
+        <node name="Group03">
+            <position x="-20" y="72.505" z="-3.16929e-006" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0" qy="0" qz="0" qw="1" />
+            <node name="ChamferBox10">
+                <position x="70" y="-72.5" z="-70" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox10" castShadows="true" receiveShadows="true" meshFile="hayChamferBox10.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox19">
+                <position x="70" y="-72.5" z="70" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox19" castShadows="true" receiveShadows="true" meshFile="hayChamferBox19.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox13">
+                <position x="1.90735e-006" y="-2.50002" z="-60" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox13" castShadows="true" receiveShadows="true" meshFile="hayChamferBox13.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox14">
+                <position x="-70" y="-2.50002" z="-60" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox14" castShadows="true" receiveShadows="true" meshFile="hayChamferBox14.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox17">
+                <position x="-70" y="-72.5" z="3.16908e-006" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0.0436194" qz="-1.90666e-009" qw="0.999048" />
+                <entity name="ChamferBox17" castShadows="true" receiveShadows="true" meshFile="hayChamferBox17.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox11">
+                <position x="0" y="-72.5" z="-70" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox11" castShadows="true" receiveShadows="true" meshFile="hayChamferBox11.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox15">
+                <position x="70" y="-2.50002" z="-60" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox15" castShadows="true" receiveShadows="true" meshFile="hayChamferBox15.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox12">
+                <position x="-70" y="-72.5" z="-70" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox12" castShadows="true" receiveShadows="true" meshFile="hayChamferBox12.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox18">
+                <position x="70" y="-72.5" z="3.16908e-006" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox18" castShadows="true" receiveShadows="true" meshFile="hayChamferBox18.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox16">
+                <position x="0" y="-72.5" z="3.16908e-006" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <entity name="ChamferBox16" castShadows="true" receiveShadows="true" meshFile="hayChamferBox16.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+            <node name="ChamferBox20">
+                <position x="70" y="-2.50002" z="10" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="-0.0436194" qz="1.90666e-009" qw="0.999048" />
+                <entity name="ChamferBox20" castShadows="true" receiveShadows="true" meshFile="hayChamferBox20.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="hay04-Default" />
+                    </subentities>
+                </entity>
+            </node>
+        </node>
+    </nodes>
+</scene>

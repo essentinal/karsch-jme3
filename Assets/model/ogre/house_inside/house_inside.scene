@@ -1,0 +1,96 @@
+<scene formatVersion="1.0" upAxis="y" unitsPerMeter="39.3701" minOgreVersion="1.8" ogreMaxVersion="2.4.3" author="OgreMax Scene Exporter (www.ogremax.com)" application="3DS Max">
+    <nodes>
+        <node name="Box01">
+            <position x="0" y="-1" z="-2.06185e-007" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0" qy="0" qz="0" qw="1" />
+            <entity name="Box01" castShadows="true" receiveShadows="true" meshFile="house_insideBox01.mesh">
+                <subentities>
+                    <subentity index="0" materialName="house_inside01-Default" />
+                    <subentity index="1" materialName="house_inside04-Default" />
+                    <subentity index="2" materialName="house_inside03-Default" />
+                </subentities>
+            </entity>
+        </node>
+        <node name="Box02">
+            <position x="0" y="25" z="-20" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0.707107" qy="0" qz="0" qw="0.707107" />
+            <entity name="Box02" castShadows="true" receiveShadows="true" meshFile="house_insideBox02.mesh">
+                <subentities>
+                    <subentity index="0" materialName="house_inside05-Default" />
+                </subentities>
+            </entity>
+        </node>
+        <node name="Box03">
+            <position x="0" y="25" z="8.14564e-007" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0.707107" qy="0" qz="0" qw="0.707107" />
+            <entity name="Box03" castShadows="true" receiveShadows="true" meshFile="house_insideBox03.mesh">
+                <subentities>
+                    <subentity index="0" materialName="house_inside05-Default" />
+                </subentities>
+            </entity>
+        </node>
+        <node name="Box04">
+            <position x="0" y="25" z="20" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0.707107" qy="0" qz="0" qw="0.707107" />
+            <entity name="Box04" castShadows="true" receiveShadows="true" meshFile="house_insideBox04.mesh">
+                <subentities>
+                    <subentity index="0" materialName="house_inside05-Default" />
+                </subentities>
+            </entity>
+        </node>
+        <node name="Box05">
+            <position x="10" y="8.96083e-007" z="20.5" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0" qy="0" qz="0" qw="1" />
+            <entity name="Box05" castShadows="true" receiveShadows="true" meshFile="house_insideBox05.mesh">
+                <subentities>
+                    <subentity index="0" materialName="house_inside05-Default" />
+                </subentities>
+            </entity>
+        </node>
+        <node name="Box06">
+            <position x="10" y="2.18557e-008" z="0.5" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0" qy="0" qz="0" qw="1" />
+            <entity name="Box06" castShadows="true" receiveShadows="true" meshFile="house_insideBox06.mesh">
+                <subentities>
+                    <subentity index="0" materialName="house_inside05-Default" />
+                </subentities>
+            </entity>
+        </node>
+        <node name="Box07">
+            <position x="10" y="-8.52372e-007" z="-19.5" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0" qy="0" qz="0" qw="1" />
+            <entity name="Box07" castShadows="true" receiveShadows="true" meshFile="house_insideBox07.mesh">
+                <subentities>
+                    <subentity index="0" materialName="house_inside05-Default" />
+                </subentities>
+            </entity>
+        </node>
+        <node name="Box08">
+            <position x="10" y="25" z="-40" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0.707107" qy="0" qz="0" qw="0.707107" />
+            <entity name="Box08" castShadows="true" receiveShadows="true" meshFile="house_insideBox08.mesh">
+                <subentities>
+                    <subentity index="0" materialName="house_inside05-Default" />
+                </subentities>
+            </entity>
+        </node>
+        <node name="Box009">
+            <position x="0" y="-1" z="4.37114e-008" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0" qy="0" qz="0" qw="1" />
+            <entity name="Box009" castShadows="true" receiveShadows="true" meshFile="house_insideBox009.mesh">
+                <subentities>
+                    <subentity index="0" materialName="house_inside03-Default" />
+                </subentities>
+            </entity>
+        </node>
+    </nodes>
+</scene>

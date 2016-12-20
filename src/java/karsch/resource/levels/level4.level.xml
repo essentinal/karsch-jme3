@@ -1,0 +1,3281 @@
+<level number="4" style="LS_FARM" level_to_world_scale="5.0">
+  <dimension size_x="50" size_y="49" />
+  <hud_text>
+    <text total_delay="3000">Find the exit, use the levers to open the gates</text>
+  </hud_text>
+  <content>
+    <static>
+      <itemref item_type="LEVEL_STATIC" name="floor_grass">
+        <position level_x="25" level_y="24" />
+        <dimension size_x="50" size_y="49" />
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="sky">
+        <position level_x="25" level_y="24" />
+        <sky radius="200.0" />
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="6" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="6" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="6" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="6" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="6" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="6" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="6" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="6" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="7" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="7" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="7" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="8" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="8" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="8" level_y="21" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="8" level_y="22" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="9" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="9" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="9" level_y="21" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="9" level_y="22" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="10" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="10" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="10" level_y="21" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="11" level_y="8" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="11" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="11" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="11" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="11" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="12" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="12" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="12" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="12" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="12" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="13" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="13" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="13" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="13" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="13" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="14" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="14" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="14" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="14" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="14" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="15" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="15" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="15" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="15" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="16" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="16" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="16" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="16" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="16" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="17" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="17" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="17" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="17" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="17" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="17" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="17" level_y="19" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="17" level_y="20" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="18" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="18" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="18" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="18" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="18" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="18" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="18" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="18" level_y="19" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="18" level_y="20" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="18" level_y="21" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="18" level_y="23" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="19" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="19" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="19" level_y="9" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="19" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="19" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="19" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="19" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="19" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="19" level_y="23" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="20" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="20" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="20" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="20" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="20" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="20" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="21" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="21" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="21" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="21" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="21" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="21" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="22" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="22" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="22" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="22" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="22" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="22" level_y="20" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="23" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="23" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="23" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="23" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="23" level_y="21" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="24" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="24" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="24" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="24" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="25" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="25" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="25" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="25" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="26" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="26" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="26" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="26" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="26" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="26" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="26" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="26" level_y="19" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="26" level_y="20" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="27" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="27" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="27" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="27" level_y="20" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="28" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="28" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="28" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="28" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="28" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="28" level_y="23" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="29" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="29" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="29" level_y="22" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="30" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="30" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="30" level_y="22" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="stone1">
+        <position level_x="30" level_y="23" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="6" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="7" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="9" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="10" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="11" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="12" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="13" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="14" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="15" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="16" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="17" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="18" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="19" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="20" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="21" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="22" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="23" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="0" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="6" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="7" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="9" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="10" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="11" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="12" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="13" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="14" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="15" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="16" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="17" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="18" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="19" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="20" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="21" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="22" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="23" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="1" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="6" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="7" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="9" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="10" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="11" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="12" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="13" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="14" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="15" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="16" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="17" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="18" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="19" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="20" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="21" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="22" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="23" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="2" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="6" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="7" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="9" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="10" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="11" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="12" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="13" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="14" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="15" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="16" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="17" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="18" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="19" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="20" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="21" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="22" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="23" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="3" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="6" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="7" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="9" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="10" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="11" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="12" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="13" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="14" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="15" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="16" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="17" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="18" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="19" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="20" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="21" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="22" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="23" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="4" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="6" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="7" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="9" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="10" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="11" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="12" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="13" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="14" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="15" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="16" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="17" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="18" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="19" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="20" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="21" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="22" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="23" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="5" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="6" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="6" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="6" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="6" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="6" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="6" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="6" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="6" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="6" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="6" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="6" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="6" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="7" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="7" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="7" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="7" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="7" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="7" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="7" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="7" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="7" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="7" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="7" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="7" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="8" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="8" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="8" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="8" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="8" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="8" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="8" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="8" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="8" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="8" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="8" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="8" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="9" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="9" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="9" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="9" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="9" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="9" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="9" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="9" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="9" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="9" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="9" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="9" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="10" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="10" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="10" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="10" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="10" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="10" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="10" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="10" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="10" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="10" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="10" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="10" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="11" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="11" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="11" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="11" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="11" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="11" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="11" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="11" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="11" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="11" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="11" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="11" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="12" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="12" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="12" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="12" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="12" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="12" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="12" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="12" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="12" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="12" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="12" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="12" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="13" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="13" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="13" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="13" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="13" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="13" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="13" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="13" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="13" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="13" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="13" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="13" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="14" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="14" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="14" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="14" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="14" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="14" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="14" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="14" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="14" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="14" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="14" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="14" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="15" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="15" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="15" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="15" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="15" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="15" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="15" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="15" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="15" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="15" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="15" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="15" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="16" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="16" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="16" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="16" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="16" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="16" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="16" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="16" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="16" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="16" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="16" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="16" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="17" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="17" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="17" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="17" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="17" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="17" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="17" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="17" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="17" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="17" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="17" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="17" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="18" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="18" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="18" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="18" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="18" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="18" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="18" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="18" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="18" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="18" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="18" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="18" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="19" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="19" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="19" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="19" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="19" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="19" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="19" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="19" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="19" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="19" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="19" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="19" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="20" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="20" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="20" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="20" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="20" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="20" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="20" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="20" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="20" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="20" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="20" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="20" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="21" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="21" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="21" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="21" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="21" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="21" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="21" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="21" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="21" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="21" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="21" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="21" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="22" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="22" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="22" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="22" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="22" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="22" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="22" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="22" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="22" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="22" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="22" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="22" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="23" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="23" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="23" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="23" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="23" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="23" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="23" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="23" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="23" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="23" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="23" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="23" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="24" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="24" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="24" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="24" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="24" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="24" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="24" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="24" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="24" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="24" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="24" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="24" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="25" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="25" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="25" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="25" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="25" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="25" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="25" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="25" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="25" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="25" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="25" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="25" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="26" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="26" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="26" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="26" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="26" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="26" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="26" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="26" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="26" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="26" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="26" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="26" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="27" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="27" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="27" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="27" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="27" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="27" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="27" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="27" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="27" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="27" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="27" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="27" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="28" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="28" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="28" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="28" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="28" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="28" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="28" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="28" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="28" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="28" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="28" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="28" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="29" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="29" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="29" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="29" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="29" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="29" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="29" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="29" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="29" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="29" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="29" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="29" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="30" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="30" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="30" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="30" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="30" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="30" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="30" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="30" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="30" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="30" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="30" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="30" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="6" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="7" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="8" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="9" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="10" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="11" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="12" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="13" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="14" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="15" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="16" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="17" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="18" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="19" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="20" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="21" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="22" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="23" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="31" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="6" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="7" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="8" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="9" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="10" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="11" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="12" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="13" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="14" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="15" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="16" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="17" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="18" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="19" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="20" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="21" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="22" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="23" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="32" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="6" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="7" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="8" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="9" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="10" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="11" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="12" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="13" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="14" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="15" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="16" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="17" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="18" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="19" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="20" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="21" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="22" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="23" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="33" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="6" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="7" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="8" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="9" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="10" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="11" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="12" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="13" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="14" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="15" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="16" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="17" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="18" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="19" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="20" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="21" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="22" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="23" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="34" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="6" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="7" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="8" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="9" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="10" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="11" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="12" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="13" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="14" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="15" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="16" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="17" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="18" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="19" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="20" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="21" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="22" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="23" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="35" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="0" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="1" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="2" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="3" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="4" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="5" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="6" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="7" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="8" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="9" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="10" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="11" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="12" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="13" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="14" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="15" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="16" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="17" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="18" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="19" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="20" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="21" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="22" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="23" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="24" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="25" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="26" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="27" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="28" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="tree1">
+        <position level_x="36" level_y="29" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+    </static>
+    <dynamic>
+      <itemref item_type="LEVEL_DYNAMIC" name="interactablestone">
+        <position level_x="18" level_y="8" />
+        <move_to_position level_x="18" level_y="9" />
+        <color deprecated="true">#640000</color>
+      </itemref>
+      <itemref item_type="LEVEL_DYNAMIC" name="interactablestone">
+        <position level_x="19" level_y="22" />
+        <move_to_position level_x="19" level_y="21" />
+        <color deprecated="true">#640000</color>
+      </itemref>
+      <itemref item_type="LEVEL_DYNAMIC" name="interactablestone">
+        <position level_x="28" level_y="21" />
+        <move_to_position level_x="29" level_y="21" />
+        <color deprecated="true">#640000</color>
+      </itemref>
+      <itemref item_type="LEVEL_DYNAMIC" name="lever">
+        <direction>DIRECTION_NODIR</direction>
+        <position level_x="8" level_y="7" />
+        <color deprecated="true">#9bffff</color>
+      </itemref>
+      <itemref item_type="LEVEL_DYNAMIC" name="lever">
+        <direction>DIRECTION_LEFT</direction>
+        <position level_x="9" level_y="10" />
+        <color deprecated="true">#9bffff</color>
+      </itemref>
+      <itemref item_type="LEVEL_DYNAMIC" name="lever">
+        <direction>DIRECTION_NODIR</direction>
+        <position level_x="10" level_y="7" />
+        <color deprecated="true">#9bffff</color>
+      </itemref>
+    </dynamic>
+    <item />
+    <character>
+      <itemref item_type="CHARACTER" name="pig">
+        <position level_x="27" level_y="17" />
+        <color deprecated="true">#0000ff</color>
+      </itemref>
+    </character>
+    <marker>
+      <itemref item_type="MARKER" name="entrance">
+        <direction>DIRECTION_RIGHT</direction>
+        <position level_x="4" level_y="8" />
+        <color deprecated="true">#ff00ff</color>
+        <level_link level="3" />
+      </itemref>
+      <itemref item_type="MARKER" name="exit">
+        <direction>DIRECTION_LEFT</direction>
+        <position level_x="27" level_y="14" />
+        <color deprecated="true">#00ff00</color>
+        <level_link level="5" />
+      </itemref>
+    </marker>
+  </content>
+  <interaction>
+    <dialog>
+      <between>
+        <character name="karsch" />
+        <character name="interactablestone" />
+      </between>
+      <step index="0">
+        <character name="interactablestone" />
+        <text lang="en" />
+        <audiofile lang="en">silence.ogg</audiofile>
+      </step>
+      <step index="1">
+        <character name="karsch" />
+        <text lang="en">This stone blocks my way.</text>
+        <audiofile lang="en">thisstoneblocks.ogg</audiofile>
+      </step>
+    </dialog>
+    <dialog>
+      <between>
+        <character name="karsch" />
+        <character name="interactablestone" />
+      </between>
+      <step index="0">
+        <character name="interactablestone" />
+        <text lang="en" />
+        <audiofile lang="en">silence.ogg</audiofile>
+      </step>
+      <step index="1">
+        <character name="karsch" />
+        <text lang="en">This stone blocks my way.</text>
+        <audiofile lang="en">thisstoneblocks.ogg</audiofile>
+      </step>
+    </dialog>
+    <dialog>
+      <between>
+        <character name="karsch" />
+        <character name="interactablestone" />
+      </between>
+      <step index="0">
+        <character name="interactablestone" />
+        <text lang="en" />
+        <audiofile lang="en">silence.ogg</audiofile>
+      </step>
+      <step index="1">
+        <character name="karsch" />
+        <text lang="en">This stone blocks my way.</text>
+        <audiofile lang="en">thisstoneblocks.ogg</audiofile>
+      </step>
+    </dialog>
+  </interaction>
+</level>

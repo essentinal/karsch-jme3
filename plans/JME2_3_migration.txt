@@ -1,0 +1,21 @@
+TODO:
+
+Models to Convert:
+-Cow			Animated
+-Gunther		Animated
+-Karsch			Animated
+-MrsKarsch		Animated
+-Pig			Animated
+-Sheep			Animated
+-Key
+-FenceGate		Animated
+-LevelEntrance	Animated
+-Lever			Animated
+-SpikeTrap		Animated
+
+Code
+-The whole menu 		GUI
+-The HUD				GUI
+-All particle systems
+-SpeechBalloon does not work as expected
+-Audio System

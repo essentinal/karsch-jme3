@@ -1,0 +1,6 @@
+<item name="blackwall" type="LEVEL_STATIC">
+	<model asset="model/bin/blackwall.j3o">
+
+	</model>
+	<!--<collisiongroup name="ground_all" />-->
+</item>

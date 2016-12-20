@@ -1,0 +1,92 @@
+<scene formatVersion="1.0" upAxis="y" unitsPerMeter="39.3701" minOgreVersion="1.8" ogreMaxVersion="2.4.3" author="OgreMax Scene Exporter (www.ogremax.com)" application="3DS Max">
+    <nodes>
+        <node name="Group02">
+            <position x="3.53322" y="226.755" z="5.15535" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0" qy="-0.0871557" qz="3.8097e-009" qw="0.996195" />
+            <node name="Group01">
+                <position x="-0.20008" y="-34.9295" z="19.6381" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="0" qy="0" qz="0" qw="1" />
+                <node name="Mesh01">
+                    <position x="34.8483" y="-199.166" z="170.891" />
+                    <scale x="1" y="1" z="1" />
+                    <rotation qx="0.707107" qy="-7.90253e-009" qz="-1.31709e-008" qw="0.707107" />
+                    <entity name="Mesh01" castShadows="true" receiveShadows="true" meshFile="mrskarschMesh01.mesh">
+                        <subentities>
+                            <subentity index="0" materialName="mrskarsch02-Default" />
+                            <subentity index="1" materialName="mrskarsch01-Default" />
+                            <subentity index="2" materialName="mrskarsch03-Default" />
+                            <subentity index="3" materialName="mrskarsch08-Default" />
+                        </subentities>
+                    </entity>
+                </node>
+                <node name="Box02">
+                    <position x="-25.9307" y="64.389" z="32.3691" />
+                    <scale x="1" y="1" z="1" />
+                    <rotation qx="-1.38778e-017" qy="7.45058e-009" qz="-4.4062e-016" qw="1" />
+                    <entity name="Box02" castShadows="true" receiveShadows="true" meshFile="mrskarschBox02.mesh">
+                        <subentities>
+                            <subentity index="0" materialName="mrskarsch03-Default" />
+                        </subentities>
+                    </entity>
+                </node>
+                <node name="Box01">
+                    <position x="28.5051" y="64.6658" z="32.3691" />
+                    <scale x="1" y="1" z="1" />
+                    <rotation qx="-1.38778e-017" qy="7.45058e-009" qz="-4.4062e-016" qw="1" />
+                    <entity name="Box01" castShadows="true" receiveShadows="true" meshFile="mrskarschBox01.mesh">
+                        <subentities>
+                            <subentity index="0" materialName="mrskarsch03-Default" />
+                        </subentities>
+                    </entity>
+                </node>
+            </node>
+            <node name="Sphere01">
+                <position x="-0.200068" y="-12.0826" z="-4.82955" />
+                <scale x="1" y="1" z="1" />
+                <rotation qx="-0.125764" qy="0.0260232" qz="0.0233089" qw="0.991445" />
+                <entity name="Sphere01" castShadows="true" receiveShadows="true" meshFile="mrskarschSphere01.mesh">
+                    <subentities>
+                        <subentity index="0" materialName="mrskarsch15" />
+                    </subentities>
+                </entity>
+            </node>
+        </node>
+        <node name="Sphere04">
+            <position x="3.14643e-005" y="10.4025" z="200.683" />
+            <scale x="1" y="1" z="1" />
+            <rotation qx="0.707107" qy="1.05367e-008" qz="-1.05367e-008" qw="0.707107" />
+            <entity name="Sphere04" castShadows="true" receiveShadows="true" meshFile="mrskarschSphere04.mesh">
+                <subentities>
+                    <subentity index="0" materialName="mrskarsch02-Default" />
+                    <subentity index="1" materialName="mrskarsch15" />
+                </subentities>
+            </entity>
+            <animations>
+                <animation name="head_rotate" enable="true" loop="true" interpolationMode="linear" rotationInterpolationMode="linear" length="0.666667">
+                    <keyframe time="0">
+                        <translation x="3.14643e-005" y="10.4025" z="200.683" />
+                        <rotation qx="0.707107" qy="1.05367e-008" qz="-1.05367e-008" qw="0.707107" />
+                        <scale x="1" y="1" z="1" />
+                    </keyframe>
+                    <keyframe time="0.222222">
+                        <translation x="3.14643e-005" y="10.4025" z="200.683" />
+                        <rotation qx="0.707107" qy="1.05367e-008" qz="-1.05367e-008" qw="0.707107" />
+                        <scale x="1" y="1" z="1" />
+                    </keyframe>
+                    <keyframe time="0.444444">
+                        <translation x="3.14643e-005" y="10.4025" z="200.683" />
+                        <rotation qx="0.707107" qy="1.05367e-008" qz="-1.05367e-008" qw="0.707107" />
+                        <scale x="1" y="1" z="1" />
+                    </keyframe>
+                    <keyframe time="0.666667">
+                        <translation x="3.14643e-005" y="10.4025" z="200.683" />
+                        <rotation qx="0.707107" qy="1.05367e-008" qz="-1.05367e-008" qw="0.707107" />
+                        <scale x="1" y="1" z="1" />
+                    </keyframe>
+                </animation>
+            </animations>
+        </node>
+    </nodes>
+</scene>

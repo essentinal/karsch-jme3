@@ -1,0 +1,1472 @@
+<level number="1" style="LS_HOUSE" level_to_world_scale="5.0">
+  <dimension size_x="20" size_y="19" />
+  <hud_text>
+    <text total_delay="3000">Press F1 if you need help</text>
+  </hud_text>
+  <content>
+    <static>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="8" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="9" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="0" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="8" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="9" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="1" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="8" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="9" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="2" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="8" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="9" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="3" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="8" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="9" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="4" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="8" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="9" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="5" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="8" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="9" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="6" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="7" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="7" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="7" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="7" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="7" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="7" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="7" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="7" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="7" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="7" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="7" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="8" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="8" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="8" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="8" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="8" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="8" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="8" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="8" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="8" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="8" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="8" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="9" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="9" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="9" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="9" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="9" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="9" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="9" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="9" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="9" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="9" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="9" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="10" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="10" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="10" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="10" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="10" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="10" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="10" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="10" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="10" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="10" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="10" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="11" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="11" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="11" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="11" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="11" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="11" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="11" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="11" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="11" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="11" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="11" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="12" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="12" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="12" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="12" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="12" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="12" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="12" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="12" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="12" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="12" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="12" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="8" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="9" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="13" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="8" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="9" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="14" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="8" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="9" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="15" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="8" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="9" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="16" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="8" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="9" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="17" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="8" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="9" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="18" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="0" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="1" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="2" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="3" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="4" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="5" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="6" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="7" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="8" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="9" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="10" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="11" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="12" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="13" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="14" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="15" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="16" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="17" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="blackwall">
+        <position level_x="19" level_y="18" />
+        <color deprecated="true">#000000</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="hay1">
+        <position level_x="8" level_y="14" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="hay1">
+        <position level_x="12" level_y="9" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="hay2">
+        <position level_x="11" level_y="14" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="hay2">
+        <position level_x="12" level_y="8" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="hay3">
+        <position level_x="8" level_y="12" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="hay3">
+        <position level_x="11" level_y="8" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="hay3">
+        <position level_x="12" level_y="14" />
+        <color deprecated="true">#003200</color>
+      </itemref>
+      <itemref item_type="LEVEL_STATIC" name="house1_inside">
+        <direction>DIRECTION_DOWN</direction>
+        <position level_x="7" level_y="7" />
+        <dimension size_x="6" size_y="8" />
+        <color deprecated="true">#ffffff</color>
+      </itemref>
+    </static>
+    <dynamic />
+    <item />
+    <character>
+      <itemref item_type="CHARACTER" name="mrs_karsch">
+        <position level_x="12" level_y="11" />
+        <color deprecated="true">#ff329b</color>
+      </itemref>
+      <itemref item_type="CHARACTER" name="karsch">
+        <position level_x="8" level_y="8" />
+      </itemref>
+    </character>
+    <marker>
+      <itemref item_type="MARKER" name="exit">
+        <direction>DIRECTION_UP</direction>
+        <position level_x="9" level_y="14" />
+        <color deprecated="true">#00ff00</color>
+        <level_link level="2" />
+      </itemref>
+      <itemref item_type="MARKER" name="start_position">
+        <direction>DIRECTION_DOWN</direction>
+        <position level_x="9" level_y="8" />
+        <color deprecated="true">#ff0037</color>
+        <start_position />
+      </itemref>
+    </marker>
+  </content>
+  <interaction>
+    <dialog condition="level==1">
+      <between>
+        <character name="karsch" />
+        <character name="mrs_karsch" />
+      </between>
+      <step index="0">
+        <character name="mrs_karsch" />
+        <text lang="en">Hi darling, have you seen the babies?</text>
+        <audiofile lang="en">01hidarlinghaveyouseen.ogg</audiofile>
+      </step>
+      <step index="1">
+        <character name="karsch" />
+        <text lang="en">No...</text>
+        <audiofile lang="en">02no.ogg</audiofile>
+      </step>
+      <step index="2">
+        <character name="mrs_karsch" />
+        <text lang="en">They must be playing on the outside!</text>
+        <audiofile lang="en">03theymustbeplaying.ogg</audiofile>
+      </step>
+      <step index="3">
+        <character name="karsch" />
+        <text lang="en">And now?</text>
+        <audiofile lang="en">04andnow.ogg</audiofile>
+      </step>
+      <step index="4">
+        <character name="mrs_karsch" />
+        <text lang="en">Look for the babies and take them home, Karsch.</text>
+        <audiofile lang="en">05lookforthebabies.ogg</audiofile>
+      </step>
+    </dialog>
+    <dialog condition="babies&gt;4">
+      <between>
+        <character name="karsch" />
+        <character name="mrs_karsch" />
+      </between>
+      <step index="0">
+        <character name="mrs_karsch" />
+        <text lang="en">Oh my darling, you found all babies!</text>
+        <audiofile lang="en">01ohmydarling.ogg</audiofile>
+      </step>
+      <step index="1">
+        <character name="karsch" />
+        <text lang="en">Of course I did</text>
+        <audiofile lang="en">02ofcourseidid.ogg</audiofile>
+      </step>
+      <step index="2">
+        <character name="mrs_karsch" />
+        <text lang="en">Thanks sweety, I love you</text>
+        <audiofile lang="en">03thankssweety.ogg</audiofile>
+      </step>
+    </dialog>
+    <dialog condition="babies&lt;5">
+      <between>
+        <character name="karsch" />
+        <character name="mrs_karsch" />
+      </between>
+      <step index="0">
+        <character name="mrs_karsch" />
+        <text lang="en">You come home without all the babies?</text>
+        <audiofile lang="en">01youcomehomewithout.ogg</audiofile>
+      </step>
+      <step index="1">
+        <character name="karsch" />
+        <text lang="en">Oh my god...</text>
+        <audiofile lang="en">02ohmygod.ogg</audiofile>
+      </step>
+      <step index="2">
+        <character name="mrs_karsch" />
+        <text lang="en">They will find their way home...</text>
+        <audiofile lang="en">03theywillfindtheirway.ogg</audiofile>
+      </step>
+    </dialog>
+  </interaction>
+</level>

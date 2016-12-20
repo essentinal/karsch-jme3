@@ -1,0 +1,20 @@
+material hay04-Default
+{
+	technique
+	{
+		pass
+		{
+			specular 1 1 1 1
+			emissive 1 1 1 1
+			diffuse 1 1 1 1
+			ambient 1 1 1 1
+
+			texture_unit
+			{
+				texture hay_1.png
+			}
+		}
+
+	}
+
+}
